@@ -2,6 +2,8 @@ Vagrant.configure("2") do |config|
   config.vm.box = "bento/ubuntu-20.04"
   config.vm.box_check_update = true
 
+  config.vm.network "forwarded_port", guest: 60610, host: 60610, host_ip: "127.0.0.1"
+
   config.vm.provider "virtualbox" do |vb|
     vb.gui = false
     # vb.memory = "4096"
@@ -44,17 +46,4 @@ Vagrant.configure("2") do |config|
     chown -R vagrant:vagrant /home/vagrant/bluesky-queueserver
 
   SHELL
-  # ssh into the VM
-  #   $ vagrant ssh
-  # install miniconda
-  #        # bash Miniconda3-latest-Linux-x86_64.sh
-  # log out of the VM and log back in to get the changes to .bashrc
-  # create and activate a conda virtual environment
-  #        # conda create -n dbs python=3.8
-  #        ...
-  #        # conda activate dbs
-  # run the Sirepo docker container like this:
-  #  (dbs) # bash start_docker.sh
-  #
-  # from the host go to http://10.10.10.10:8000
 end
