@@ -1,0 +1,3370 @@
+{
+    "1b8eacd2-7caa-4099-8423-9cd138a41ce3": {
+        "x": -24.2999825,
+        "y": 92.0999275,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Ta_NbTiTaV_wisc_V3_021_015.001"
+    },
+    "a8688680-2de5-4c77-85a3-6a9431613643": {
+        "x": -69.2998925,
+        "y": 92.0999275,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Ta_NbTiTaV_wisc_V3_018_014.001"
+    },
+    "fd074e42-2539-4d21-b11c-613d5f66344c": {
+        "x": -78.300065,
+        "y": 92.0999275,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Ta_NbTiTaV_wisc_V3_018_013.001"
+    },
+    "89734328-2792-4ed6-8808-d6ee8d1b632c": {
+        "x": -37.8000825,
+        "y": 96.59985499999999,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Ta_NbTiTaV_wisc_V3_015_012.001"
+    },
+    "d6b17f7e-7a20-4e72-89d4-f610cc5885c6": {
+        "x": -46.7999375,
+        "y": 96.59985499999999,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Ta_NbTiTaV_wisc_V3_015_011.001"
+    },
+    "13cf07f0-071f-41ad-91fe-7e821dafe621": {
+        "x": -28.799909999999997,
+        "y": 101.1001,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Ta_NbTiTaV_wisc_V3_011_010.001"
+    },
+    "0664fd59-b89a-4132-8906-f878e7a91a94": {
+        "x": -37.8000825,
+        "y": 101.1001,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Ta_NbTiTaV_wisc_V3_011_009.001"
+    },
+    "de5032e7-97bb-4e8c-aa12-ecc3685050ac": {
+        "x": -64.799965,
+        "y": 101.1001,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Ta_NbTiTaV_wisc_V3_009_008.001"
+    },
+    "d0936fc0-2e7a-4129-9191-cd14ee96bc8f": {
+        "x": -73.8001375,
+        "y": 101.1001,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Ta_NbTiTaV_wisc_V3_009_007.001"
+    },
+    "e84a6f45-8025-4eeb-b736-3cf6ce5a8739": {
+        "x": -33.300155,
+        "y": 105.6000275,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Ta_NbTiTaV_wisc_V3_006_006.001"
+    },
+    "1ee4a86a-dea9-4f76-ab43-86e48d59f815": {
+        "x": -42.30001,
+        "y": 105.6000275,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Ta_NbTiTaV_wisc_V3_006_005.001"
+    },
+    "5d0c9cc5-5605-4af9-b300-e71eb7360de9": {
+        "x": -19.800055,
+        "y": 110.099955,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Ta_NbTiTaV_wisc_V3_003_004.001"
+    },
+    "27b65dbc-f2a9-42e5-abd4-cc5478f6a502": {
+        "x": -28.799909999999997,
+        "y": 110.099955,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Ta_NbTiTaV_wisc_V3_003_003.001"
+    },
+    "dc4da50f-bbc3-4396-b403-0f063406a368": {
+        "x": -73.8001375,
+        "y": 110.099955,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Ta_NbTiTaV_wisc_V3_000_002.001"
+    },
+    "0c5cc00a-4aa0-4a3a-b7bf-e483d62ca696": {
+        "x": -82.7999925,
+        "y": 110.099955,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Ta_NbTiTaV_wisc_V3_000_001.001"
+    },
+    "d0ede86f-9bcd-4f06-83f4-966dd97822eb": {
+        "x": -82.7999925,
+        "y": 110.099955,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Ta_NbTiTaV_wisc_V3_000_001.001"
+    },
+    "e9ddc456-3857-45b2-8330-4dbed77ab446": {
+        "x": -82.7999925,
+        "y": 110.099955,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Ta_NbTiTaV_wisc_V3_000_001.001"
+    },
+    "f379f4ab-399e-4f6c-8bea-98482d46190d": {
+        "x": -69.2998925,
+        "y": 78.600145,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ti_NbTiTa091719.001"
+    },
+    "d73af921-0b76-4ad5-982d-5e5a3c248aec": {
+        "x": -60.3000375,
+        "y": 38.099845,
+        "element": "V",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "V_NbTiTaV_wisc_V3_072_050.001"
+    },
+    "4f63823f-f4b1-49be-8cc2-583e69e93b7d": {
+        "x": -69.2998925,
+        "y": 38.100162499999996,
+        "element": "V",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "V_NbTiTaV_wisc_V3_072_049.001"
+    },
+    "a351e2f0-c0ef-4263-a965-c16ce2cb2a32": {
+        "x": -60.3000375,
+        "y": 42.600089999999994,
+        "element": "V",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "V_NbTiTaV_wisc_V3_069_048.001"
+    },
+    "15348277-792c-4684-9602-dbee1c925aa9": {
+        "x": -69.2998925,
+        "y": 42.600089999999994,
+        "element": "V",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "V_NbTiTaV_wisc_V3_069_047.001"
+    },
+    "c1901bcd-7271-4ad2-9cbe-da21ac6629b6": {
+        "x": -55.800110000000004,
+        "y": 47.10001749999999,
+        "element": "V",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "V_NbTiTaV_wisc_V3_066_046.001"
+    },
+    "b030c161-76fc-4860-983f-671699ebffd4": {
+        "x": -64.799965,
+        "y": 47.10001749999999,
+        "element": "V",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "V_NbTiTaV_wisc_V3_066_045.001"
+    },
+    "f9147e02-b068-4107-b72c-1de4481600e9": {
+        "x": -33.300155,
+        "y": 51.599945,
+        "element": "V",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "V_NbTiTaV_wisc_V3_063_044.001"
+    },
+    "8f838c6d-efd3-469e-b980-018667920176": {
+        "x": -42.30001,
+        "y": 51.599945,
+        "element": "V",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "V_NbTiTaV_wisc_V3_063_043.001"
+    },
+    "9861f1ea-19fb-4729-9144-60bfaa362530": {
+        "x": -28.799909999999997,
+        "y": 56.0998725,
+        "element": "V",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "V_NbTiTaV_wisc_V3_059_042.001"
+    },
+    "0ee8473e-29de-435d-8759-d5d38d3223ee": {
+        "x": -37.8000825,
+        "y": 56.0998725,
+        "element": "V",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "V_NbTiTaV_wisc_V3_059_041.001"
+    },
+    "85b9b785-eb2d-4039-9f19-f8aa3077182d": {
+        "x": -64.799965,
+        "y": 56.0998725,
+        "element": "V",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "V_NbTiTaV_wisc_V3_057_040.001"
+    },
+    "f36a7de2-5bf7-43ce-9790-911f3e643791": {
+        "x": -73.8001375,
+        "y": 56.0998725,
+        "element": "V",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "V_NbTiTaV_wisc_V3_057_039.001"
+    },
+    "c4edc380-72fa-45f4-b43f-7eea2a3bce3c": {
+        "x": -37.8000825,
+        "y": 60.600117499999996,
+        "element": "V",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "V_NbTiTaV_wisc_V3_054_038.001"
+    },
+    "8bfc86de-7228-4ac8-8393-b24cb31fd289": {
+        "x": -46.7999375,
+        "y": 60.600117499999996,
+        "element": "V",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "V_NbTiTaV_wisc_V3_054_037.001"
+    },
+    "a0c63508-b7a6-4383-a8cb-fd20a9c90c68": {
+        "x": -15.300127499999995,
+        "y": 65.100045,
+        "element": "V",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "V_NbTiTaV_wisc_V3_051_036.001"
+    },
+    "901102d5-7cff-4a17-ba6b-05d97dd6fdae": {
+        "x": -24.2999825,
+        "y": 65.100045,
+        "element": "V",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "V_NbTiTaV_wisc_V3_051_035.001"
+    },
+    "fb32bfab-18be-4a55-a211-1a9b6a291501": {
+        "x": -69.2998925,
+        "y": 65.100045,
+        "element": "V",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "V_NbTiTaV_wisc_V3_048_034.001"
+    },
+    "7de9110b-3093-4d75-8619-c80c6724853e": {
+        "x": -78.300065,
+        "y": 65.100045,
+        "element": "V",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "V_NbTiTaV_wisc_V3_048_033.001"
+    },
+    "76faa0fc-e9ac-4bc0-a20c-89ca19875748": {
+        "x": -24.2999825,
+        "y": 69.5999725,
+        "element": "V",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "V_NbTiTaV_wisc_V3_045_032.001"
+    },
+    "d0fd385c-fc22-4270-93dc-56509806ddb0": {
+        "x": -33.300155,
+        "y": 69.5999725,
+        "element": "V",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "V_NbTiTaV_wisc_V3_045_031.001"
+    },
+    "29efc6c0-379c-4136-b0fa-7507a71d2ef5": {
+        "x": -78.300065,
+        "y": 69.5999725,
+        "element": "V",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "V_NbTiTaV_wisc_V3_042_030.001"
+    },
+    "cc7e9b2d-8b05-4630-981f-00f692443fd4": {
+        "x": -87.29992,
+        "y": 69.5999725,
+        "element": "V",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "V_NbTiTaV_wisc_V3_042_029.001"
+    },
+    "00cf1ef7-c0be-4aaf-b751-8ae9351627b8": {
+        "x": -51.299865,
+        "y": 74.09989999999999,
+        "element": "V",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "V_NbTiTaV_wisc_V3_039_028.001"
+    },
+    "4dae4c0a-6b30-4965-b7bc-8a4db67572a3": {
+        "x": -60.3000375,
+        "y": 74.09989999999999,
+        "element": "V",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "V_NbTiTaV_wisc_V3_039_027.001"
+    },
+    "adc63fb5-b799-49cd-940b-0997ae923f98": {
+        "x": -24.2999825,
+        "y": 78.600145,
+        "element": "V",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "V_NbTiTaV_wisc_V3_035_026.001"
+    },
+    "122a88db-ef15-4c4b-9265-95a6afab2d65": {
+        "x": -33.300155,
+        "y": 78.600145,
+        "element": "V",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "V_NbTiTaV_wisc_V3_035_025.001"
+    },
+    "e0995e63-2156-4eda-86c1-6a1ec3b8bba2": {
+        "x": -60.3000375,
+        "y": 78.600145,
+        "element": "V",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "V_NbTiTaV_wisc_V3_033_024.001"
+    },
+    "7e877ebb-278f-4f55-852f-1e8074217d30": {
+        "x": -69.2998925,
+        "y": 78.600145,
+        "element": "V",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "V_NbTiTaV_wisc_V3_033_023.001"
+    },
+    "c414dbbd-4520-4c25-a011-c4b0e3b5a778": {
+        "x": -33.300155,
+        "y": 83.1000725,
+        "element": "V",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "V_NbTiTaV_wisc_V3_030_022.001"
+    },
+    "15dd7007-0d05-4a0d-a301-5917f50da910": {
+        "x": -42.30001,
+        "y": 83.1000725,
+        "element": "V",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "V_NbTiTaV_wisc_V3_030_021.001"
+    },
+    "833a6181-dc0f-445b-92f6-876c93aecd74": {
+        "x": -87.29992,
+        "y": 83.1000725,
+        "element": "V",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "V_NbTiTaV_wisc_V3_027_020.001"
+    },
+    "113e71b5-e1b9-4a66-b2ef-0e2aee2eab89": {
+        "x": -96.3000925,
+        "y": 83.1000725,
+        "element": "V",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "V_NbTiTaV_wisc_V3_027_019.001"
+    },
+    "872d7087-2741-4b95-967e-5d6db9563988": {
+        "x": -42.30001,
+        "y": 87.6,
+        "element": "V",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "V_NbTiTaV_wisc_V3_024_018.001"
+    },
+    "77bc9d4e-8fd0-4613-aceb-5afb6067e232": {
+        "x": -51.299865,
+        "y": 87.6,
+        "element": "V",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "V_NbTiTaV_wisc_V3_024_017.001"
+    },
+    "c999d35f-0517-4358-9c04-8f3cc968eaa4": {
+        "x": -15.300127499999995,
+        "y": 92.0999275,
+        "element": "V",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "V_NbTiTaV_wisc_V3_021_016.001"
+    },
+    "c1e40c9c-c109-4f8b-95c3-d5d50a391533": {
+        "x": -24.2999825,
+        "y": 92.0999275,
+        "element": "V",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "V_NbTiTaV_wisc_V3_021_015.001"
+    },
+    "202e22db-4907-447d-8a36-de7cab071864": {
+        "x": -69.2998925,
+        "y": 92.0999275,
+        "element": "V",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "V_NbTiTaV_wisc_V3_018_014.001"
+    },
+    "32bb31f6-229a-4392-bbb9-256b6e6bffdc": {
+        "x": -78.300065,
+        "y": 92.0999275,
+        "element": "V",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "V_NbTiTaV_wisc_V3_018_013.001"
+    },
+    "cd4c1e0c-eb29-4741-9421-1b9b57b5644e": {
+        "x": -37.8000825,
+        "y": 96.59985499999999,
+        "element": "V",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "V_NbTiTaV_wisc_V3_015_012.001"
+    },
+    "d63e50c1-5513-4e74-8821-9e7f69d16f0d": {
+        "x": -46.7999375,
+        "y": 96.59985499999999,
+        "element": "V",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "V_NbTiTaV_wisc_V3_015_011.001"
+    },
+    "e64954d7-86ad-43e0-8935-22d0bdf17147": {
+        "x": -28.799909999999997,
+        "y": 101.1001,
+        "element": "V",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "V_NbTiTaV_wisc_V3_011_010.001"
+    },
+    "a838392b-56e4-41b2-a12d-afae24a6cfdf": {
+        "x": -37.8000825,
+        "y": 101.1001,
+        "element": "V",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "V_NbTiTaV_wisc_V3_011_009.001"
+    },
+    "7f92d685-4d8c-47aa-b132-dd39832c9894": {
+        "x": -64.799965,
+        "y": 101.1001,
+        "element": "V",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "V_NbTiTaV_wisc_V3_009_008.001"
+    },
+    "a47afec0-1144-400a-9e36-13e0b5869cbb": {
+        "x": -73.8001375,
+        "y": 101.1001,
+        "element": "V",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "V_NbTiTaV_wisc_V3_009_007.001"
+    },
+    "5fb2d7ee-a014-414b-963e-3c71a199c4eb": {
+        "x": -33.300155,
+        "y": 105.6000275,
+        "element": "V",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "V_NbTiTaV_wisc_V3_006_006.001"
+    },
+    "8235ccc5-ce49-4fa7-8817-944dc1f72248": {
+        "x": -42.30001,
+        "y": 105.6000275,
+        "element": "V",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "V_NbTiTaV_wisc_V3_006_005.001"
+    },
+    "6218841a-232e-4962-8afd-91321b453770": {
+        "x": -19.800055,
+        "y": 110.099955,
+        "element": "V",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "V_NbTiTaV_wisc_V3_003_004.001"
+    },
+    "c61db1be-107b-4f83-9ff8-bd2c2129978e": {
+        "x": -28.799909999999997,
+        "y": 110.099955,
+        "element": "V",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "V_NbTiTaV_wisc_V3_003_003.001"
+    },
+    "4af6f765-26f1-4713-8642-0200245ea14b": {
+        "x": -73.8001375,
+        "y": 110.099955,
+        "element": "V",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "V_NbTiTaV_wisc_V3_000_002.001"
+    },
+    "732ea80c-2388-43da-8913-8c29f0c625ef": {
+        "x": -82.7999925,
+        "y": 110.099955,
+        "element": "V",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "V_NbTiTaV_wisc_V3_000_001.001"
+    },
+    "d66805c8-230d-42b4-acbc-137bdbb64d11": {
+        "x": -60.3000375,
+        "y": 38.099845,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Nb_NbTiTaV_wisc_V3_072_050.001"
+    },
+    "66cf14b3-426f-4bd6-8229-45fb1a00f549": {
+        "x": -69.2998925,
+        "y": 38.100162499999996,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Nb_NbTiTaV_wisc_V3_072_049.001"
+    },
+    "58d00c98-afff-4890-8046-da43875ffd92": {
+        "x": -60.3000375,
+        "y": 42.600089999999994,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Nb_NbTiTaV_wisc_V3_069_048.001"
+    },
+    "bc0a6354-5556-4459-9c4a-dfbea052f17b": {
+        "x": -69.2998925,
+        "y": 42.600089999999994,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Nb_NbTiTaV_wisc_V3_069_047.001"
+    },
+    "7cd82864-fcf1-4355-b651-bc9a251127f2": {
+        "x": -55.800110000000004,
+        "y": 47.10001749999999,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Nb_NbTiTaV_wisc_V3_066_046.001"
+    },
+    "c3962d11-9dda-4d73-a46c-d37edb6d6542": {
+        "x": -64.799965,
+        "y": 47.10001749999999,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Nb_NbTiTaV_wisc_V3_066_045.001"
+    },
+    "85dec0d6-9f69-4866-a298-a1af784fa1ff": {
+        "x": -33.300155,
+        "y": 51.599945,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Nb_NbTiTaV_wisc_V3_063_044.001"
+    },
+    "c12c3dc8-9574-4615-a867-87433e9da231": {
+        "x": -42.30001,
+        "y": 51.599945,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Nb_NbTiTaV_wisc_V3_063_043.001"
+    },
+    "4d6771ed-097a-4961-bfd2-c80087280b29": {
+        "x": -28.799909999999997,
+        "y": 56.0998725,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Nb_NbTiTaV_wisc_V3_059_042.001"
+    },
+    "d50499c9-453f-4cd1-8ee5-26af9a682fdd": {
+        "x": -37.8000825,
+        "y": 56.0998725,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Nb_NbTiTaV_wisc_V3_059_041.001"
+    },
+    "9c5fcb7e-18a6-4acf-a55b-7a9d295b36ef": {
+        "x": -64.799965,
+        "y": 56.0998725,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Nb_NbTiTaV_wisc_V3_057_040.001"
+    },
+    "b53a3a16-5a0e-4fd1-abf5-a1315688ac1a": {
+        "x": -73.8001375,
+        "y": 56.0998725,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Nb_NbTiTaV_wisc_V3_057_039.001"
+    },
+    "c18a62fa-c8d7-486d-b5bf-68ce239e9de6": {
+        "x": -37.8000825,
+        "y": 60.600117499999996,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Nb_NbTiTaV_wisc_V3_054_038.001"
+    },
+    "3af33eed-3421-4fe6-8ad9-3194fd4466f5": {
+        "x": -46.7999375,
+        "y": 60.600117499999996,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Nb_NbTiTaV_wisc_V3_054_037.001"
+    },
+    "4950a289-b3bc-4ade-a4c7-3fd750d14694": {
+        "x": -15.300127499999995,
+        "y": 65.100045,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Nb_NbTiTaV_wisc_V3_051_036.001"
+    },
+    "8ff2b20a-370c-49ce-bf69-8e1dd8dbbb83": {
+        "x": -24.2999825,
+        "y": 65.100045,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Nb_NbTiTaV_wisc_V3_051_035.001"
+    },
+    "a93619c5-cd12-4443-bb7e-1cd6edeaef44": {
+        "x": -69.2998925,
+        "y": 65.100045,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Nb_NbTiTaV_wisc_V3_048_034.001"
+    },
+    "ff2eef7f-5b3b-4aac-88ac-3cb29bc45b18": {
+        "x": -78.300065,
+        "y": 65.100045,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Nb_NbTiTaV_wisc_V3_048_033.001"
+    },
+    "09a3c1cc-60a7-456d-b644-6b92d6b51bf7": {
+        "x": -24.2999825,
+        "y": 69.5999725,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Nb_NbTiTaV_wisc_V3_045_032.001"
+    },
+    "014ea39b-0e0a-44f9-9efa-d8beb30b54e5": {
+        "x": -33.300155,
+        "y": 69.5999725,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Nb_NbTiTaV_wisc_V3_045_031.001"
+    },
+    "c86aff1c-475f-4567-a64b-87309595f356": {
+        "x": -78.300065,
+        "y": 69.5999725,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Nb_NbTiTaV_wisc_V3_042_030.001"
+    },
+    "2be6e25e-72f8-49a8-a978-dee112aeaf11": {
+        "x": -87.29992,
+        "y": 69.5999725,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Nb_NbTiTaV_wisc_V3_042_029.001"
+    },
+    "8bafa880-7872-4afc-8455-45a477b90324": {
+        "x": -51.299865,
+        "y": 74.09989999999999,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Nb_NbTiTaV_wisc_V3_039_028.001"
+    },
+    "077891f4-df03-4e71-9f7c-2df7e1d49cc1": {
+        "x": -60.3000375,
+        "y": 74.09989999999999,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Nb_NbTiTaV_wisc_V3_039_027.001"
+    },
+    "f3f73dfd-f6f4-44bd-99cb-857893b2a8c3": {
+        "x": -24.2999825,
+        "y": 78.600145,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Nb_NbTiTaV_wisc_V3_035_026.001"
+    },
+    "5f228235-24fa-4d2e-ac25-6e57ef963c4a": {
+        "x": -33.300155,
+        "y": 78.600145,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Nb_NbTiTaV_wisc_V3_035_025.001"
+    },
+    "d0e07a17-6af6-4f57-abb1-c8f66d442c7a": {
+        "x": -60.3000375,
+        "y": 78.600145,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Nb_NbTiTaV_wisc_V3_033_024.001"
+    },
+    "36dd3d30-fe9e-41d2-b6cb-f9eb34b03f39": {
+        "x": -69.2998925,
+        "y": 78.600145,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Nb_NbTiTaV_wisc_V3_033_023.001"
+    },
+    "30a763ec-0a9c-4e40-96c3-b61fc0d407f2": {
+        "x": -33.300155,
+        "y": 83.1000725,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Nb_NbTiTaV_wisc_V3_030_022.001"
+    },
+    "850b56e8-3927-4055-993a-0030893ba813": {
+        "x": -42.30001,
+        "y": 83.1000725,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Nb_NbTiTaV_wisc_V3_030_021.001"
+    },
+    "38fb32d2-4155-4525-85e5-15ca23399fe1": {
+        "x": -87.29992,
+        "y": 83.1000725,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Nb_NbTiTaV_wisc_V3_027_020.001"
+    },
+    "99ded167-d8c4-4eab-a228-ddd0156a3b4a": {
+        "x": -96.3000925,
+        "y": 83.1000725,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Nb_NbTiTaV_wisc_V3_027_019.001"
+    },
+    "fe33ba6e-f09b-4f19-af10-950135ffee41": {
+        "x": -42.30001,
+        "y": 87.6,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Nb_NbTiTaV_wisc_V3_024_018.001"
+    },
+    "e5bee7be-b367-468d-8f8c-8273812e3646": {
+        "x": -51.299865,
+        "y": 87.6,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Nb_NbTiTaV_wisc_V3_024_017.001"
+    },
+    "d1b134b5-78a4-49f9-9429-d3eecb5b2bf6": {
+        "x": -15.300127499999995,
+        "y": 92.0999275,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Nb_NbTiTaV_wisc_V3_021_016.001"
+    },
+    "edeee670-eb56-4adb-a63a-46d96861773f": {
+        "x": -24.2999825,
+        "y": 92.0999275,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Nb_NbTiTaV_wisc_V3_021_015.001"
+    },
+    "35bfca31-629a-423a-aee8-4b691ccc0c52": {
+        "x": -69.2998925,
+        "y": 92.0999275,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Nb_NbTiTaV_wisc_V3_018_014.001"
+    },
+    "20030bfd-7d32-4dfd-8e6d-eff6233b7099": {
+        "x": -78.300065,
+        "y": 92.0999275,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Nb_NbTiTaV_wisc_V3_018_013.001"
+    },
+    "897313f6-1583-4d23-9189-4134803b0868": {
+        "x": -37.8000825,
+        "y": 96.59985499999999,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Nb_NbTiTaV_wisc_V3_015_012.001"
+    },
+    "fc2c63b8-0899-49c8-820b-965a5625c062": {
+        "x": -46.7999375,
+        "y": 96.59985499999999,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Nb_NbTiTaV_wisc_V3_015_011.001"
+    },
+    "0ef420f2-b904-4489-9e1c-98ee46bef930": {
+        "x": -28.799909999999997,
+        "y": 101.1001,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Nb_NbTiTaV_wisc_V3_011_010.001"
+    },
+    "f0974dba-89d6-4748-92b5-89cd7e0b10ea": {
+        "x": -37.8000825,
+        "y": 101.1001,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Nb_NbTiTaV_wisc_V3_011_009.001"
+    },
+    "a01fb9e4-2f6b-4f1b-9f9f-cdd64861e680": {
+        "x": -64.799965,
+        "y": 101.1001,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Nb_NbTiTaV_wisc_V3_009_008.001"
+    },
+    "97a63363-8156-482c-a8bf-0adf0c357503": {
+        "x": -73.8001375,
+        "y": 101.1001,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Nb_NbTiTaV_wisc_V3_009_007.001"
+    },
+    "d4675dca-eadb-4737-9028-31a84868df1d": {
+        "x": -33.300155,
+        "y": 105.6000275,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Nb_NbTiTaV_wisc_V3_006_006.001"
+    },
+    "6bc4c5b4-8fe1-467a-b1c0-7196c7c8eb86": {
+        "x": -42.30001,
+        "y": 105.6000275,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Nb_NbTiTaV_wisc_V3_006_005.001"
+    },
+    "d5517928-afc3-42ff-8fa6-19169ca785a8": {
+        "x": -19.800055,
+        "y": 110.099955,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Nb_NbTiTaV_wisc_V3_003_004.001"
+    },
+    "0c11a6f5-acff-45fe-a04b-2fbf272e6c35": {
+        "x": -28.799909999999997,
+        "y": 110.099955,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Nb_NbTiTaV_wisc_V3_003_003.001"
+    },
+    "a4885561-8d55-41a1-8822-4989259876f0": {
+        "x": -73.8001375,
+        "y": 110.099955,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Nb_NbTiTaV_wisc_V3_000_002.001"
+    },
+    "94befa0f-1055-4fa7-b859-b7174f525f54": {
+        "x": -82.7999925,
+        "y": 110.099955,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Nb_NbTiTaV_wisc_V3_000_001.001"
+    },
+    "4494b2b3-3341-45f1-a1dc-a6b0db5c34d7": {
+        "x": -82.7999925,
+        "y": 110.099955,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Nb_NbTiTaV_wisc_V3_000_001.001"
+    },
+    "903ab805-255b-4d87-8027-34292ddd8951": {
+        "x": -82.7999925,
+        "y": 110.099955,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Nb_NbTiTaV_wisc_V3_000_001.001"
+    },
+    "91ca928d-8ea6-4791-a59a-136087eb6af7": {
+        "x": -60.3000375,
+        "y": 38.099845,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Ti_NbTiTaV_wisc_V3_072_050.001"
+    },
+    "55d27151-2359-471a-a99a-4c128268e140": {
+        "x": -69.2998925,
+        "y": 38.100162499999996,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Ti_NbTiTaV_wisc_V3_072_049.001"
+    },
+    "7ffd11ce-e736-4f3d-b470-9b4ee1f5f785": {
+        "x": -60.3000375,
+        "y": 42.600089999999994,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Ti_NbTiTaV_wisc_V3_069_048.001"
+    },
+    "98ca70a4-0e1a-4dcc-9c65-29c60ba0be58": {
+        "x": -69.2998925,
+        "y": 42.600089999999994,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Ti_NbTiTaV_wisc_V3_069_047.001"
+    },
+    "b56b00e2-8556-45aa-b912-84d2218b5812": {
+        "x": -55.800110000000004,
+        "y": 47.10001749999999,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Ti_NbTiTaV_wisc_V3_066_046.001"
+    },
+    "4381cb81-66e4-4cbc-835a-01d90e6f6d2d": {
+        "x": -64.799965,
+        "y": 47.10001749999999,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Ti_NbTiTaV_wisc_V3_066_045.001"
+    },
+    "c77ef756-d133-4843-a80f-fda960af9f78": {
+        "x": -33.300155,
+        "y": 51.599945,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Ti_NbTiTaV_wisc_V3_063_044.001"
+    },
+    "13e2f653-9575-4609-98c9-eafdddc11872": {
+        "x": -42.30001,
+        "y": 51.599945,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Ti_NbTiTaV_wisc_V3_063_043.001"
+    },
+    "3ddccb16-8417-48f3-8ad0-ae58a213f668": {
+        "x": -28.799909999999997,
+        "y": 56.0998725,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Ti_NbTiTaV_wisc_V3_059_042.001"
+    },
+    "b813c974-6f28-4f0a-a70a-78b1d0a7b7df": {
+        "x": -37.8000825,
+        "y": 56.0998725,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Ti_NbTiTaV_wisc_V3_059_041.001"
+    },
+    "0f87375a-a261-4c5b-8efa-bfffa2f15880": {
+        "x": -64.799965,
+        "y": 56.0998725,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Ti_NbTiTaV_wisc_V3_057_040.001"
+    },
+    "8bc30ad1-eb79-499c-8977-136fc42b147f": {
+        "x": -73.8001375,
+        "y": 56.0998725,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Ti_NbTiTaV_wisc_V3_057_039.001"
+    },
+    "61d89bdf-22c6-45e9-8463-9eee580ae015": {
+        "x": -37.8000825,
+        "y": 60.600117499999996,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Ti_NbTiTaV_wisc_V3_054_038.001"
+    },
+    "88cf5505-abe0-4b40-ad6f-0b2edbe8bb07": {
+        "x": -46.7999375,
+        "y": 60.600117499999996,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Ti_NbTiTaV_wisc_V3_054_037.001"
+    },
+    "094662d3-1899-4b33-8777-19c0a9c021ef": {
+        "x": -15.300127499999995,
+        "y": 65.100045,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Ti_NbTiTaV_wisc_V3_051_036.001"
+    },
+    "6aa0b163-8acb-4e12-9d1c-8f2f2a6a8891": {
+        "x": -24.2999825,
+        "y": 65.100045,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Ti_NbTiTaV_wisc_V3_051_035.001"
+    },
+    "447770bb-843f-46ec-9e23-b415edb31fb8": {
+        "x": -69.2998925,
+        "y": 65.100045,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Ti_NbTiTaV_wisc_V3_048_034.001"
+    },
+    "198a055f-b1ad-4901-a94b-eeeb3a053cf2": {
+        "x": -78.300065,
+        "y": 65.100045,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Ti_NbTiTaV_wisc_V3_048_033.001"
+    },
+    "228fa332-4ccc-4576-9b97-980a9bce91ba": {
+        "x": -24.2999825,
+        "y": 69.5999725,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Ti_NbTiTaV_wisc_V3_045_032.001"
+    },
+    "0f748f90-fd84-4f8e-93d1-e3c91d2d4d3a": {
+        "x": -33.300155,
+        "y": 69.5999725,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Ti_NbTiTaV_wisc_V3_045_031.001"
+    },
+    "d692eb32-8399-424a-8ab2-f5605e3d71c0": {
+        "x": -78.300065,
+        "y": 69.5999725,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Ti_NbTiTaV_wisc_V3_042_030.001"
+    },
+    "acda949c-d9ba-4eaf-bb07-3a28d40dd3ed": {
+        "x": -87.29992,
+        "y": 69.5999725,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Ti_NbTiTaV_wisc_V3_042_029.001"
+    },
+    "8ee94741-7186-4ec0-98b0-15f7f3cc551b": {
+        "x": -51.299865,
+        "y": 74.09989999999999,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Ti_NbTiTaV_wisc_V3_039_028.001"
+    },
+    "c57e103b-7098-4728-841f-1922cc3a4b26": {
+        "x": -60.3000375,
+        "y": 74.09989999999999,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Ti_NbTiTaV_wisc_V3_039_027.001"
+    },
+    "f8f9fcf6-2f9c-4bc5-a0fc-26a4b6b23588": {
+        "x": -24.2999825,
+        "y": 78.600145,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Ti_NbTiTaV_wisc_V3_035_026.001"
+    },
+    "1c1181f6-e5c8-4697-8ce6-95d8c329ed96": {
+        "x": -33.300155,
+        "y": 78.600145,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Ti_NbTiTaV_wisc_V3_035_025.001"
+    },
+    "d260b46a-af26-4990-ba8a-e775d18ac440": {
+        "x": -60.3000375,
+        "y": 78.600145,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Ti_NbTiTaV_wisc_V3_033_024.001"
+    },
+    "e575ebaa-adff-481d-90a1-44077e22cf3f": {
+        "x": -69.2998925,
+        "y": 78.600145,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Ti_NbTiTaV_wisc_V3_033_023.001"
+    },
+    "af3584d7-7640-4e16-ad47-5e43d7d1fbc1": {
+        "x": -33.300155,
+        "y": 83.1000725,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Ti_NbTiTaV_wisc_V3_030_022.001"
+    },
+    "45ca77ff-81bf-4d8a-9521-bf9cd7a80c8b": {
+        "x": -42.30001,
+        "y": 83.1000725,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Ti_NbTiTaV_wisc_V3_030_021.001"
+    },
+    "6bfdf62f-d6bf-4c77-b791-b12acda44325": {
+        "x": -87.29992,
+        "y": 83.1000725,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Ti_NbTiTaV_wisc_V3_027_020.001"
+    },
+    "986c7393-f0e3-4fce-9ded-783c240243a3": {
+        "x": -96.3000925,
+        "y": 83.1000725,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Ti_NbTiTaV_wisc_V3_027_019.001"
+    },
+    "084a58f1-557c-4c39-a408-d00a81fe6c0b": {
+        "x": -42.30001,
+        "y": 87.6,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Ti_NbTiTaV_wisc_V3_024_018.001"
+    },
+    "04e40290-666b-4306-bf65-8e2ef69585a7": {
+        "x": -51.299865,
+        "y": 87.6,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Ti_NbTiTaV_wisc_V3_024_017.001"
+    },
+    "4e514685-7a5b-4e8c-8fc9-22588f16524c": {
+        "x": -15.300127499999995,
+        "y": 92.0999275,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Ti_NbTiTaV_wisc_V3_021_016.001"
+    },
+    "32a33927-adb1-4a7a-b455-c3b4284809f5": {
+        "x": -24.2999825,
+        "y": 92.0999275,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Ti_NbTiTaV_wisc_V3_021_015.001"
+    },
+    "05911f5e-f0e9-406b-bc37-bbb4911e61ad": {
+        "x": -69.2998925,
+        "y": 92.0999275,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Ti_NbTiTaV_wisc_V3_018_014.001"
+    },
+    "da84eac7-6a91-46e6-b110-8357a24cb180": {
+        "x": -78.300065,
+        "y": 92.0999275,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Ti_NbTiTaV_wisc_V3_018_013.001"
+    },
+    "9c2f7091-35b9-4bf4-b9ae-e820aa1138e3": {
+        "x": -37.8000825,
+        "y": 96.59985499999999,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Ti_NbTiTaV_wisc_V3_015_012.001"
+    },
+    "b351c01d-ec6b-45b7-9da1-624989e2203f": {
+        "x": -46.7999375,
+        "y": 96.59985499999999,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Ti_NbTiTaV_wisc_V3_015_011.001"
+    },
+    "21e4769e-49a9-4bee-a888-45e3dcb4d154": {
+        "x": -28.799909999999997,
+        "y": 101.1001,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Ti_NbTiTaV_wisc_V3_011_010.001"
+    },
+    "d6b25ae9-f921-4b90-84fe-b59604eff2a7": {
+        "x": -37.8000825,
+        "y": 101.1001,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Ti_NbTiTaV_wisc_V3_011_009.001"
+    },
+    "46ac7af9-b82a-47d9-996b-b3089e0086bd": {
+        "x": -64.799965,
+        "y": 101.1001,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Ti_NbTiTaV_wisc_V3_009_008.001"
+    },
+    "650a7a94-84a2-4102-be8f-7942575038fa": {
+        "x": -73.8001375,
+        "y": 101.1001,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Ti_NbTiTaV_wisc_V3_009_007.001"
+    },
+    "0795a0ee-b595-460f-80b1-b85d25fbedbe": {
+        "x": -33.300155,
+        "y": 105.6000275,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Ti_NbTiTaV_wisc_V3_006_006.001"
+    },
+    "b8cd2231-8ca2-4064-a51e-bd75dc9e6106": {
+        "x": -42.30001,
+        "y": 105.6000275,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Ti_NbTiTaV_wisc_V3_006_005.001"
+    },
+    "0c3ac62e-19f3-48ad-bb89-bffe9d0d3f0a": {
+        "x": -19.800055,
+        "y": 110.099955,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Ti_NbTiTaV_wisc_V3_003_004.001"
+    },
+    "fba4e900-dc57-4421-898a-5f541840e623": {
+        "x": -28.799909999999997,
+        "y": 110.099955,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Ti_NbTiTaV_wisc_V3_003_003.001"
+    },
+    "b90fed87-cc78-405c-bed4-5b6405834cbb": {
+        "x": -73.8001375,
+        "y": 110.099955,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Ti_NbTiTaV_wisc_V3_000_002.001"
+    },
+    "12c5d8f9-6868-45a8-aeb1-568994063582": {
+        "x": -82.7999925,
+        "y": 110.099955,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Ti_NbTiTaV_wisc_V3_000_001.001"
+    },
+    "d51ca5e6-5669-441c-89f4-073c2ecaf0f2": {
+        "x": -82.7999925,
+        "y": 110.099955,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTaV_wisc_V3 (1803016-k2-2 lib2)",
+        "filename": "Ti_NbTiTaV_wisc_V3_000_001.001"
+    },
+    "4bb202cb-9dbe-41b9-893b-7f7834c95789": {
+        "x": -38.819892499999995,
+        "y": 115.019935,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ti_NbTiTa091719_014_003.002"
+    },
+    "e0303819-e282-43d2-8fc8-56cd7234739c": {
+        "x": -74.9799675,
+        "y": 115.019935,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ti_NbTiTa091719_006_002.002"
+    },
+    "97238cea-6f2c-45ae-8277-99d0ad1005af": {
+        "x": -56.89993,
+        "y": 119.539865,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ti_NbTiTa091719_003_001.002"
+    },
+    "883a43f8-f3aa-4f6d-a84b-6086c7e392dc": {
+        "x": -47.86007,
+        "y": 56.2598925,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ta_NbTiTa091719_177_081.001"
+    },
+    "742f5258-f4aa-4137-839d-4e97a4ed5d98": {
+        "x": -61.41986,
+        "y": 56.2598925,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ta_NbTiTa091719_174_080.001"
+    },
+    "def188e7-89f8-4d41-a26b-d0b76f735c45": {
+        "x": -65.9401075,
+        "y": 56.2598925,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ta_NbTiTa091719_173_079.001"
+    },
+    "fcbeaa9f-28e6-4398-8f56-cb98886caeb1": {
+        "x": -47.86007,
+        "y": 60.780139999999996,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ta_NbTiTa091719_170_078.001"
+    },
+    "9d03d04b-5a60-46d0-a9e0-73738211b902": {
+        "x": -52.38,
+        "y": 60.780139999999996,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ta_NbTiTa091719_169_077.001"
+    },
+    "54cf2e1b-e5d2-4d18-9601-399c774b3efc": {
+        "x": -65.9401075,
+        "y": 60.780139999999996,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ta_NbTiTa091719_166_076.001"
+    },
+    "48b2068f-b272-42ca-8834-bbc99dcaf3a5": {
+        "x": -70.4600375,
+        "y": 60.780139999999996,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ta_NbTiTa091719_165_075.001"
+    },
+    "f15735d9-acd3-431c-b9e6-83485bc80c42": {
+        "x": -38.819892499999995,
+        "y": 65.30007,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ta_NbTiTa091719_162_074.001"
+    },
+    "60cebea7-f5cf-4f17-aac7-1dd9be8d456f": {
+        "x": -43.34014,
+        "y": 65.30007,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ta_NbTiTa091719_161_073.001"
+    },
+    "2d56608e-aaf5-49af-8db9-f39ffc1a1150": {
+        "x": -56.89993,
+        "y": 65.30007,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ta_NbTiTa091719_158_072.001"
+    },
+    "26f77c7c-275e-4302-8e85-44f4412fb35d": {
+        "x": -61.41986,
+        "y": 65.30007,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ta_NbTiTa091719_157_071.001"
+    },
+    "650f2558-178f-412b-8561-fbe8048e7e67": {
+        "x": -74.9799675,
+        "y": 65.30007,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ta_NbTiTa091719_154_070.001"
+    },
+    "3682937c-18d1-4d22-908e-d2fc49d2cb2a": {
+        "x": -79.4998975,
+        "y": 65.30007,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ta_NbTiTa091719_153_069.001"
+    },
+    "69bd6ef1-e87d-46d3-a78c-414b6c89a527": {
+        "x": -38.819892499999995,
+        "y": 69.82,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ta_NbTiTa091719_150_068.001"
+    },
+    "939763ce-699b-4f29-a0a9-16aad82bd610": {
+        "x": -43.34014,
+        "y": 69.82,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ta_NbTiTa091719_149_067.001"
+    },
+    "7d345a7d-cd31-4909-bd73-b287e4f859be": {
+        "x": -56.89993,
+        "y": 69.82,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ta_NbTiTa091719_146_066.001"
+    },
+    "9edfc1e1-8f1a-4bdb-bd3b-d36303c71d8a": {
+        "x": -61.41986,
+        "y": 69.82,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ta_NbTiTa091719_145_065.001"
+    },
+    "8d80c031-4adb-4fc8-b453-008e25c61fc4": {
+        "x": -74.9799675,
+        "y": 69.82,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ta_NbTiTa091719_142_064.001"
+    },
+    "88bb1ef3-4758-49d2-aafe-d35f16ce4319": {
+        "x": -79.4998975,
+        "y": 69.82,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ta_NbTiTa091719_141_063.001"
+    },
+    "2df301f7-b317-43df-b5bc-a744f01e9dc8": {
+        "x": -34.2999625,
+        "y": 74.33993,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ta_NbTiTa091719_138_062.001"
+    },
+    "4cf9ea5b-5e0d-4636-9eb7-8060c9b3c85f": {
+        "x": -38.819892499999995,
+        "y": 74.33993,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ta_NbTiTa091719_137_061.001"
+    },
+    "a3f5c4b2-0f0a-431a-bb90-9c64e79c5b91": {
+        "x": -52.38,
+        "y": 74.33993,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ta_NbTiTa091719_134_060.001"
+    },
+    "2e0701b9-455a-44b0-abbc-3e2124d49e29": {
+        "x": -56.89993,
+        "y": 74.33993,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ta_NbTiTa091719_133_059.001"
+    },
+    "f4f5546a-27ef-4a3d-841f-571e7c5aad75": {
+        "x": -70.4600375,
+        "y": 74.33993,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ta_NbTiTa091719_130_058.001"
+    },
+    "d68a42c4-12df-484e-8aa3-f6cbe7fb38c4": {
+        "x": -74.9799675,
+        "y": 74.33993,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ta_NbTiTa091719_129_057.001"
+    },
+    "5dd25696-1b5a-41af-91fd-28a0c0c55909": {
+        "x": -25.260102499999995,
+        "y": 78.85986,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ta_NbTiTa091719_126_056.001"
+    },
+    "1032d8bc-900a-40c0-b255-dd38910c0f33": {
+        "x": -29.780032499999997,
+        "y": 78.85986,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ta_NbTiTa091719_125_055.001"
+    },
+    "79b4fe83-462b-4e39-80ab-e079dccfd28c": {
+        "x": -43.34014,
+        "y": 78.85986,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ta_NbTiTa091719_122_054.001"
+    },
+    "5d25ebed-37bf-427f-acef-c1dc7abf5e51": {
+        "x": -47.86007,
+        "y": 78.85986,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ta_NbTiTa091719_121_053.001"
+    },
+    "33d101fb-5378-4f83-b1e6-24b524edc2a1": {
+        "x": -61.41986,
+        "y": 78.85986,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ta_NbTiTa091719_118_052.001"
+    },
+    "3324edf2-547d-434b-a7a0-f807f00ea866": {
+        "x": -65.9401075,
+        "y": 78.85986,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ta_NbTiTa091719_117_051.001"
+    },
+    "3942f401-cd89-4cd7-a2a5-4212925cdc27": {
+        "x": -79.4998975,
+        "y": 78.85986,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ta_NbTiTa091719_114_050.001"
+    },
+    "23833886-86cf-4e12-a0c0-6ac8bf38f239": {
+        "x": -84.020145,
+        "y": 78.85986,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ta_NbTiTa091719_113_049.001"
+    },
+    "3611ee04-172b-4e8e-aaf6-e423d31a959d": {
+        "x": -25.260102499999995,
+        "y": 83.3801075,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ta_NbTiTa091719_111_048.001"
+    },
+    "d98480b1-4907-4d50-b74f-365f0b020254": {
+        "x": -29.780032499999997,
+        "y": 83.3801075,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ta_NbTiTa091719_110_047.001"
+    },
+    "03dc827c-0a16-4107-93f5-fe2992c2b81b": {
+        "x": -34.2999625,
+        "y": 83.3801075,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ta_NbTiTa091719_109_046.001"
+    },
+    "82fc1e21-753e-437c-a8bc-a16f274704f2": {
+        "x": -47.86007,
+        "y": 83.3801075,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ta_NbTiTa091719_106_045.001"
+    },
+    "44e09c4e-6d34-4510-8373-30bee7b9e4fa": {
+        "x": -52.38,
+        "y": 83.3801075,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ta_NbTiTa091719_105_044.001"
+    },
+    "c6c05291-c0c4-42cc-9354-0c6a938178e4": {
+        "x": -65.9401075,
+        "y": 83.3801075,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ta_NbTiTa091719_102_043.001"
+    },
+    "6c475ff6-bccc-45a1-b185-fc772dc75e05": {
+        "x": -70.4600375,
+        "y": 83.3801075,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ta_NbTiTa091719_101_042.001"
+    },
+    "8533d324-8bd3-4a42-a685-5c4f2989d1f4": {
+        "x": -84.020145,
+        "y": 83.3801075,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ta_NbTiTa091719_098_041.001"
+    },
+    "6bfc29a3-36e7-45fa-a680-2f3ca2ff42bc": {
+        "x": -88.540075,
+        "y": 83.3801075,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ta_NbTiTa091719_097_040.001"
+    },
+    "51610feb-abef-486c-8903-a2b25e1f2c2a": {
+        "x": -34.2999625,
+        "y": 87.9000375,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ta_NbTiTa091719_094_039.001"
+    },
+    "ec75e806-ca4a-4ca3-95a5-d2538317aa40": {
+        "x": -38.819892499999995,
+        "y": 87.9000375,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ta_NbTiTa091719_093_038.001"
+    },
+    "c05a32fd-dfbf-412f-9660-2ec16d776c70": {
+        "x": -52.38,
+        "y": 87.9000375,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ta_NbTiTa091719_090_037.001"
+    },
+    "b30045c8-69a3-4351-a218-dd5d50b23a38": {
+        "x": -56.89993,
+        "y": 87.9000375,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ta_NbTiTa091719_089_036.001"
+    },
+    "407db711-b6ec-4f5c-b615-280b2281f6c2": {
+        "x": -65.9401075,
+        "y": 87.9000375,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ta_NbTiTa091719_087_035.001"
+    },
+    "a9a663d8-1fbb-4cf8-b35d-f0f4e3856f4a": {
+        "x": -70.4600375,
+        "y": 87.9000375,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ta_NbTiTa091719_086_034.001"
+    },
+    "59bed0d8-a8a2-417e-ae00-29af5e7b06b7": {
+        "x": -84.020145,
+        "y": 87.9000375,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ta_NbTiTa091719_083_033.001"
+    },
+    "76a009a3-5123-45bf-b9be-b33f6902c698": {
+        "x": -88.540075,
+        "y": 87.9000375,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ta_NbTiTa091719_082_032.001"
+    },
+    "f3eaaed7-5766-4f0a-8c9b-20fd2caffbe6": {
+        "x": -25.260102499999995,
+        "y": 92.4199675,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ta_NbTiTa091719_081_031.001"
+    },
+    "87aeffc2-f272-4fcb-8a85-0a863147265e": {
+        "x": -29.780032499999997,
+        "y": 92.4199675,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ta_NbTiTa091719_080_030.001"
+    },
+    "c5ee3d16-f71d-4ab4-b67c-3d6fade92a23": {
+        "x": -38.819892499999995,
+        "y": 92.4199675,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ta_NbTiTa091719_078_029.001"
+    },
+    "ea4dfb20-cf35-4aea-b988-4b8c025cd520": {
+        "x": -43.34014,
+        "y": 92.4199675,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ta_NbTiTa091719_077_028.001"
+    },
+    "54f76532-e4f9-497b-a8ca-def2853c5d40": {
+        "x": -56.89993,
+        "y": 92.4199675,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ta_NbTiTa091719_074_027.001"
+    },
+    "dadebba9-fd5f-4d91-a58e-03605a1d76b7": {
+        "x": -61.41986,
+        "y": 92.4199675,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ta_NbTiTa091719_073_026.001"
+    },
+    "d872ed6a-82b7-4a49-9813-b2226dd90d7c": {
+        "x": -74.9799675,
+        "y": 92.4199675,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ta_NbTiTa091719_070_025.001"
+    },
+    "fdd4f808-21c5-473d-a462-233483edda39": {
+        "x": -79.4998975,
+        "y": 92.4199675,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ta_NbTiTa091719_069_024.001"
+    },
+    "2e564462-ddb8-4f53-ab65-f59a0d2118b8": {
+        "x": -25.260102499999995,
+        "y": 96.9398975,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ta_NbTiTa091719_066_023.001"
+    },
+    "73b4ff6c-3b32-407d-957d-2bea43508a81": {
+        "x": -29.780032499999997,
+        "y": 96.9398975,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ta_NbTiTa091719_065_022.001"
+    },
+    "7b316693-95f9-4ffc-8b74-91fae84641a9": {
+        "x": -34.2999625,
+        "y": 96.9398975,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ta_NbTiTa091719_064_021.001"
+    },
+    "a39e8f04-3287-4406-8b36-cbc69c5789d7": {
+        "x": -47.86007,
+        "y": 96.9398975,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ta_NbTiTa091719_061_020.001"
+    },
+    "ccbcb5bc-68c5-46b9-a6e4-8426f34679e9": {
+        "x": -52.38,
+        "y": 96.9398975,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ta_NbTiTa091719_060_019.001"
+    },
+    "8f4e523e-94ab-4f54-a63d-ea02ea7da43a": {
+        "x": -56.89993,
+        "y": 96.9398975,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ta_NbTiTa091719_059_018.001"
+    },
+    "75dc7085-fefe-4103-8385-590257ef9899": {
+        "x": -61.41986,
+        "y": 96.9398975,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ta_NbTiTa091719_058_017.001"
+    },
+    "cd233f7b-5d7e-41f1-9203-ba69058b5d02": {
+        "x": -65.9401075,
+        "y": 96.9398975,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ta_NbTiTa091719_057_016.001"
+    },
+    "f049a5df-065a-4927-a54b-44f022f695ce": {
+        "x": -70.4600375,
+        "y": 96.9398975,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ta_NbTiTa091719_056_015.001"
+    },
+    "680ab139-edd7-4bd7-8e2a-1510944fc7ba": {
+        "x": -84.020145,
+        "y": 96.9398975,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ta_NbTiTa091719_053_014.001"
+    },
+    "4b142f6f-7f20-4cea-b273-3e922d6d1143": {
+        "x": -88.540075,
+        "y": 96.9398975,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ta_NbTiTa091719_052_013.001"
+    },
+    "55304df0-52d5-48c4-9149-7abed36a759b": {
+        "x": -29.780032499999997,
+        "y": 101.460145,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ta_NbTiTa091719_051_012.001"
+    },
+    "d992349f-ebc1-4b1f-a65c-1a171d04a185": {
+        "x": -47.86007,
+        "y": 101.460145,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ta_NbTiTa091719_047_011.001"
+    },
+    "b3a2ff74-f6e6-4d48-b3d7-62ea6b2b18fe": {
+        "x": -65.9401075,
+        "y": 101.460145,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ta_NbTiTa091719_043_010.001"
+    },
+    "504f6725-8d7f-4c08-9468-087e82eac61c": {
+        "x": -84.020145,
+        "y": 101.460145,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ta_NbTiTa091719_039_009.001"
+    },
+    "a2ff1866-5058-409b-bcf4-c3e241e4142a": {
+        "x": -29.780032499999997,
+        "y": 105.980075,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ta_NbTiTa091719_038_008.001"
+    },
+    "4dffe3b4-17c9-4129-b5df-2507baf13aae": {
+        "x": -56.89993,
+        "y": 105.980075,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ta_NbTiTa091719_032_007.001"
+    },
+    "6e1b67e2-5cf9-415e-8a73-430495f5bed3": {
+        "x": -84.020145,
+        "y": 105.980075,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ta_NbTiTa091719_026_006.001"
+    },
+    "8c530ce9-0c65-421e-bc8f-c5237d4f07c0": {
+        "x": -47.86007,
+        "y": 110.500005,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ta_NbTiTa091719_022_005.001"
+    },
+    "4a7e7a86-70d4-4e71-bfad-dcd22d28450b": {
+        "x": -65.9401075,
+        "y": 110.500005,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ta_NbTiTa091719_018_004.001"
+    },
+    "b40cc8c0-e9dc-48bf-a33f-3e464d16ac75": {
+        "x": -38.819892499999995,
+        "y": 115.019935,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ta_NbTiTa091719_014_003.001"
+    },
+    "84212952-2634-4233-ad38-9862284438eb": {
+        "x": -74.9799675,
+        "y": 115.019935,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ta_NbTiTa091719_006_002.001"
+    },
+    "2a66850d-4945-446c-9888-075717dfd34b": {
+        "x": -56.89993,
+        "y": 119.539865,
+        "element": "Ta",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ta_NbTiTa091719_003_001.001"
+    },
+    "61b504c4-8d19-41ec-8dd4-433228a9b326": {
+        "x": -47.86007,
+        "y": 56.2598925,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Nb_NbTiTa091719_177_081.001"
+    },
+    "d117e851-c763-4cff-99c0-e194b6e4573a": {
+        "x": -61.41986,
+        "y": 56.2598925,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Nb_NbTiTa091719_174_080.001"
+    },
+    "3553ead3-4bf4-47e5-a21e-b67f750e5973": {
+        "x": -65.9401075,
+        "y": 56.2598925,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Nb_NbTiTa091719_173_079.001"
+    },
+    "f552f6e9-e18b-4ab1-a29e-847d2718f12b": {
+        "x": -47.86007,
+        "y": 60.780139999999996,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Nb_NbTiTa091719_170_078.001"
+    },
+    "6843c165-6dd6-40c1-9845-17b713a97acd": {
+        "x": -52.38,
+        "y": 60.780139999999996,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Nb_NbTiTa091719_169_077.001"
+    },
+    "99d660d0-8f66-4ebc-8934-8adf0aa12e50": {
+        "x": -65.9401075,
+        "y": 60.780139999999996,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Nb_NbTiTa091719_166_076.001"
+    },
+    "aea53f9d-05bc-47be-b075-f5889e90a9db": {
+        "x": -70.4600375,
+        "y": 60.780139999999996,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Nb_NbTiTa091719_165_075.001"
+    },
+    "d0c2029b-087b-48df-87ac-aca64c08f8ad": {
+        "x": -38.819892499999995,
+        "y": 65.30007,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Nb_NbTiTa091719_162_074.001"
+    },
+    "962625f2-e7cf-47dd-aea1-14ff546284f0": {
+        "x": -43.34014,
+        "y": 65.30007,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Nb_NbTiTa091719_161_073.001"
+    },
+    "bcd0531f-a10a-44a7-b150-1294e5bf6954": {
+        "x": -56.89993,
+        "y": 65.30007,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Nb_NbTiTa091719_158_072.001"
+    },
+    "8ef08a5d-2800-47c9-bee6-32d31d46975e": {
+        "x": -61.41986,
+        "y": 65.30007,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Nb_NbTiTa091719_157_071.001"
+    },
+    "53f1b022-4652-4601-92d9-448f4b5ca0cc": {
+        "x": -74.9799675,
+        "y": 65.30007,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Nb_NbTiTa091719_154_070.001"
+    },
+    "d5c30a54-47e4-47bd-9177-9fc56ccb9615": {
+        "x": -79.4998975,
+        "y": 65.30007,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Nb_NbTiTa091719_153_069.001"
+    },
+    "987a30a0-b2f0-40ce-9e6b-be54e83c8824": {
+        "x": -38.819892499999995,
+        "y": 69.82,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Nb_NbTiTa091719_150_068.001"
+    },
+    "44e84bf5-97ad-40da-82c1-bc3cce6b3a3a": {
+        "x": -43.34014,
+        "y": 69.82,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Nb_NbTiTa091719_149_067.001"
+    },
+    "2b03d6ac-7654-464a-8470-3f286f728998": {
+        "x": -56.89993,
+        "y": 69.82,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Nb_NbTiTa091719_146_066.001"
+    },
+    "57bca04c-0aa4-4e5c-ba88-1ed692dca179": {
+        "x": -61.41986,
+        "y": 69.82,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Nb_NbTiTa091719_145_065.001"
+    },
+    "1a982d49-2730-4c09-a231-dbd2f49ebb2f": {
+        "x": -74.9799675,
+        "y": 69.82,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Nb_NbTiTa091719_142_064.001"
+    },
+    "f55e7a4c-f78e-466b-9d51-931fcd46356b": {
+        "x": -79.4998975,
+        "y": 69.82,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Nb_NbTiTa091719_141_063.001"
+    },
+    "5de063a8-f2ad-4ced-bed4-26edbf6272ec": {
+        "x": -34.2999625,
+        "y": 74.33993,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Nb_NbTiTa091719_138_062.001"
+    },
+    "aa4a2b5e-cb70-416c-be6a-d7e87fdc102c": {
+        "x": -38.819892499999995,
+        "y": 74.33993,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Nb_NbTiTa091719_137_061.001"
+    },
+    "9b451893-e10a-47eb-ad52-5769f18ddd5b": {
+        "x": -52.38,
+        "y": 74.33993,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Nb_NbTiTa091719_134_060.001"
+    },
+    "daa5bc65-bf56-466f-98e4-561c5f75796c": {
+        "x": -56.89993,
+        "y": 74.33993,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Nb_NbTiTa091719_133_059.001"
+    },
+    "5a8cac5a-a28e-4c7b-9c84-b3b8a72eea2c": {
+        "x": -70.4600375,
+        "y": 74.33993,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Nb_NbTiTa091719_130_058.001"
+    },
+    "b856c0a3-44ae-4c7f-a113-cde646e194c3": {
+        "x": -74.9799675,
+        "y": 74.33993,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Nb_NbTiTa091719_129_057.001"
+    },
+    "93ac3ce6-3361-4d96-8293-93f74c6312f0": {
+        "x": -25.260102499999995,
+        "y": 78.85986,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Nb_NbTiTa091719_126_056.001"
+    },
+    "6712d2cc-3481-4012-9585-a4d74b12b95a": {
+        "x": -29.780032499999997,
+        "y": 78.85986,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Nb_NbTiTa091719_125_055.001"
+    },
+    "92189012-107c-46c6-a05c-11e47e4648cf": {
+        "x": -43.34014,
+        "y": 78.85986,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Nb_NbTiTa091719_122_054.001"
+    },
+    "dfe8259b-ec57-4cb3-acd1-9881f454b76f": {
+        "x": -47.86007,
+        "y": 78.85986,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Nb_NbTiTa091719_121_053.001"
+    },
+    "1ac731d4-2149-4b53-90b2-4f36e5f0a9bd": {
+        "x": -61.41986,
+        "y": 78.85986,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Nb_NbTiTa091719_118_052.001"
+    },
+    "d5ee7411-7190-4353-ab79-61e52d0cf66f": {
+        "x": -65.9401075,
+        "y": 78.85986,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Nb_NbTiTa091719_117_051.001"
+    },
+    "db9bb1c8-26c7-4c73-ae6a-85caae70186c": {
+        "x": -79.4998975,
+        "y": 78.85986,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Nb_NbTiTa091719_114_050.001"
+    },
+    "2f7de05b-faf7-4688-8c56-e6525f6b7693": {
+        "x": -84.020145,
+        "y": 78.85986,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Nb_NbTiTa091719_113_049.001"
+    },
+    "13a765d9-3d56-42b6-a746-69e973b55ce2": {
+        "x": -25.260102499999995,
+        "y": 83.3801075,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Nb_NbTiTa091719_111_048.001"
+    },
+    "e2e8d88e-e61a-4831-bfa9-25d7547d7fbc": {
+        "x": -29.780032499999997,
+        "y": 83.3801075,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Nb_NbTiTa091719_110_047.001"
+    },
+    "13b7e51b-7c5f-4772-b1c4-610871f4ab5f": {
+        "x": -34.2999625,
+        "y": 83.3801075,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Nb_NbTiTa091719_109_046.001"
+    },
+    "5dbe1017-7107-438d-a2a8-e8a6d694f827": {
+        "x": -47.86007,
+        "y": 83.3801075,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Nb_NbTiTa091719_106_045.001"
+    },
+    "4ab5acee-8ef6-46c3-af1f-df87c249aa42": {
+        "x": -52.38,
+        "y": 83.3801075,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Nb_NbTiTa091719_105_044.001"
+    },
+    "85258908-d8d9-463d-92c9-dba70b39f3c3": {
+        "x": -65.9401075,
+        "y": 83.3801075,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Nb_NbTiTa091719_102_043.001"
+    },
+    "bff2289d-0f5e-48eb-945a-6d023a8099a3": {
+        "x": -70.4600375,
+        "y": 83.3801075,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Nb_NbTiTa091719_101_042.001"
+    },
+    "777d219d-a085-453a-8302-0a33cc1f9566": {
+        "x": -84.020145,
+        "y": 83.3801075,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Nb_NbTiTa091719_098_041.001"
+    },
+    "82ecc261-8348-4ff0-8ed0-3912b868d224": {
+        "x": -88.540075,
+        "y": 83.3801075,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Nb_NbTiTa091719_097_040.001"
+    },
+    "06b6eb45-14c1-4cdf-a099-432d8d01ef1a": {
+        "x": -34.2999625,
+        "y": 87.9000375,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Nb_NbTiTa091719_094_039.001"
+    },
+    "54d7b274-3696-4ab6-a03e-45313d74fa0f": {
+        "x": -38.819892499999995,
+        "y": 87.9000375,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Nb_NbTiTa091719_093_038.001"
+    },
+    "df634614-d4bd-4b44-8a06-ec6a00e99dc9": {
+        "x": -52.38,
+        "y": 87.9000375,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Nb_NbTiTa091719_090_037.001"
+    },
+    "de0501fd-e052-4087-b28d-aad57824d514": {
+        "x": -56.89993,
+        "y": 87.9000375,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Nb_NbTiTa091719_089_036.001"
+    },
+    "e9024a9a-3c8a-4915-8bbb-e117da1c93aa": {
+        "x": -65.9401075,
+        "y": 87.9000375,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Nb_NbTiTa091719_087_035.001"
+    },
+    "4c122ff4-1131-4814-a2b9-eb294fedae30": {
+        "x": -70.4600375,
+        "y": 87.9000375,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Nb_NbTiTa091719_086_034.001"
+    },
+    "0877576a-8feb-41f6-b193-ecf46edc5410": {
+        "x": -84.020145,
+        "y": 87.9000375,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Nb_NbTiTa091719_083_033.001"
+    },
+    "234e4898-56db-4013-91c5-986bee2f65db": {
+        "x": -88.540075,
+        "y": 87.9000375,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Nb_NbTiTa091719_082_032.001"
+    },
+    "dfbf1613-4a59-46cd-8b44-76c59c1a5cff": {
+        "x": -25.260102499999995,
+        "y": 92.4199675,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Nb_NbTiTa091719_081_031.001"
+    },
+    "2172215e-bd09-4b3c-9e48-edd2ffa27685": {
+        "x": -29.780032499999997,
+        "y": 92.4199675,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Nb_NbTiTa091719_080_030.001"
+    },
+    "a1b69fc5-9b4f-4eae-9631-8c8b26915536": {
+        "x": -38.819892499999995,
+        "y": 92.4199675,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Nb_NbTiTa091719_078_029.001"
+    },
+    "b52e3f23-327d-45f2-8ebd-286cd87977ae": {
+        "x": -43.34014,
+        "y": 92.4199675,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Nb_NbTiTa091719_077_028.001"
+    },
+    "8ffcff2e-875b-4e9c-a330-ce3b82c63084": {
+        "x": -56.89993,
+        "y": 92.4199675,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Nb_NbTiTa091719_074_027.001"
+    },
+    "74c223ca-c059-43f0-a4d8-c95a6dfd972d": {
+        "x": -61.41986,
+        "y": 92.4199675,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Nb_NbTiTa091719_073_026.001"
+    },
+    "d1252b6d-728f-4b73-b123-25681c4e01d4": {
+        "x": -74.9799675,
+        "y": 92.4199675,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Nb_NbTiTa091719_070_025.001"
+    },
+    "c2764957-1853-4d2e-b195-d9dcb7cc401f": {
+        "x": -79.4998975,
+        "y": 92.4199675,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Nb_NbTiTa091719_069_024.001"
+    },
+    "970f12a7-eede-432c-addc-61ca799128f0": {
+        "x": -25.260102499999995,
+        "y": 96.9398975,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Nb_NbTiTa091719_066_023.001"
+    },
+    "4cfb3ccb-5dc5-4966-a348-2dc0bd38da21": {
+        "x": -29.780032499999997,
+        "y": 96.9398975,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Nb_NbTiTa091719_065_022.001"
+    },
+    "ab02c0ad-7b75-4f59-acb5-474f1408b210": {
+        "x": -34.2999625,
+        "y": 96.9398975,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Nb_NbTiTa091719_064_021.001"
+    },
+    "017f9128-6179-4874-91d8-e567f77e9d24": {
+        "x": -47.86007,
+        "y": 96.9398975,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Nb_NbTiTa091719_061_020.001"
+    },
+    "e8ae0288-3dca-4e08-9a11-64ad30d11bf1": {
+        "x": -52.38,
+        "y": 96.9398975,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Nb_NbTiTa091719_060_019.001"
+    },
+    "bbc223a8-67e2-4e65-9e89-a8e37be8ae85": {
+        "x": -56.89993,
+        "y": 96.9398975,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Nb_NbTiTa091719_059_018.001"
+    },
+    "fe5b452f-dd85-4a35-857e-c34180d48810": {
+        "x": -61.41986,
+        "y": 96.9398975,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Nb_NbTiTa091719_058_017.001"
+    },
+    "085927cf-6106-48cc-8ec9-799da14704b0": {
+        "x": -65.9401075,
+        "y": 96.9398975,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Nb_NbTiTa091719_057_016.001"
+    },
+    "955ce725-2b7d-444e-ab3c-f024c0977e4c": {
+        "x": -70.4600375,
+        "y": 96.9398975,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Nb_NbTiTa091719_056_015.001"
+    },
+    "87a5d9d5-fdb8-47e5-8164-375a6f85feec": {
+        "x": -84.020145,
+        "y": 96.9398975,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Nb_NbTiTa091719_053_014.001"
+    },
+    "f5244c69-13ad-49dd-ad91-041db3a5cc85": {
+        "x": -88.540075,
+        "y": 96.9398975,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Nb_NbTiTa091719_052_013.001"
+    },
+    "7eda05ec-bb69-4c14-982b-e25bdf4373b4": {
+        "x": -29.780032499999997,
+        "y": 101.460145,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Nb_NbTiTa091719_051_012.001"
+    },
+    "203898ba-4fdc-4553-999e-ac2785c73b78": {
+        "x": -47.86007,
+        "y": 101.460145,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Nb_NbTiTa091719_047_011.001"
+    },
+    "1fbafc6e-cefc-44f5-8384-b4661c8ba881": {
+        "x": -65.9401075,
+        "y": 101.460145,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Nb_NbTiTa091719_043_010.001"
+    },
+    "07f915f3-59a2-4fa5-a4b1-bba3ec85c6b7": {
+        "x": -84.020145,
+        "y": 101.460145,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Nb_NbTiTa091719_039_009.001"
+    },
+    "b5be193c-5465-453c-9a38-934efe73d331": {
+        "x": -29.780032499999997,
+        "y": 105.980075,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Nb_NbTiTa091719_038_008.001"
+    },
+    "5721f09c-c58a-47d3-ad1c-6d0489b0dd23": {
+        "x": -56.89993,
+        "y": 105.980075,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Nb_NbTiTa091719_032_007.001"
+    },
+    "e1892dea-f96e-425f-aac3-e507c0fcf0df": {
+        "x": -84.020145,
+        "y": 105.980075,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Nb_NbTiTa091719_026_006.001"
+    },
+    "f477a9bf-17b8-45c2-bada-0a5dd9ef4c2a": {
+        "x": -47.86007,
+        "y": 110.500005,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Nb_NbTiTa091719_022_005.001"
+    },
+    "b8a15980-245b-4777-9ee6-59485eb234c5": {
+        "x": -65.9401075,
+        "y": 110.500005,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Nb_NbTiTa091719_018_004.001"
+    },
+    "62e55f92-a3a7-4388-ad10-d09b6994c476": {
+        "x": -38.819892499999995,
+        "y": 115.019935,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Nb_NbTiTa091719_014_003.001"
+    },
+    "3f6a47b8-1b59-45b1-8c11-64782747b814": {
+        "x": -74.9799675,
+        "y": 115.019935,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Nb_NbTiTa091719_006_002.001"
+    },
+    "c5e69adb-42ae-4563-ba33-540689466a2e": {
+        "x": -56.89993,
+        "y": 119.539865,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Nb_NbTiTa091719_003_001.001"
+    },
+    "468933f7-8549-4ea8-a79a-21c04f558391": {
+        "x": -56.89993,
+        "y": 119.539865,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Nb_NbTiTa091719_003_001.001"
+    },
+    "15f77c97-85ee-43d1-8af1-401f221fef26": {
+        "x": -56.89993,
+        "y": 119.539865,
+        "element": "Nb",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Nb_NbTiTa091719_003_001.001"
+    },
+    "39a2c8c9-ef25-4510-a818-49c86e2981c6": {
+        "x": -47.86007,
+        "y": 56.2598925,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ti_NbTiTa091719_177_081.001"
+    },
+    "77ad4fbe-cbd5-4dad-9a7f-bbc231edff5d": {
+        "x": -61.41986,
+        "y": 56.2598925,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ti_NbTiTa091719_174_080.001"
+    },
+    "c5980c1b-4f25-41c1-a461-666773327221": {
+        "x": -65.9401075,
+        "y": 56.2598925,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ti_NbTiTa091719_173_079.001"
+    },
+    "75ae1e19-8628-4900-ad16-a8b637f43e96": {
+        "x": -47.86007,
+        "y": 60.780139999999996,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ti_NbTiTa091719_170_078.001"
+    },
+    "477862d3-9e5d-42d1-b412-f992079e21d6": {
+        "x": -52.38,
+        "y": 60.780139999999996,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ti_NbTiTa091719_169_077.001"
+    },
+    "dc29bd79-a8bb-447a-815f-66d660e30bdd": {
+        "x": -65.9401075,
+        "y": 60.780139999999996,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ti_NbTiTa091719_166_076.001"
+    },
+    "453df475-bc23-487c-aee9-d6de25a4c49c": {
+        "x": -70.4600375,
+        "y": 60.780139999999996,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ti_NbTiTa091719_165_075.001"
+    },
+    "5931dfc7-73fe-4320-a5fd-877a7245367c": {
+        "x": -38.819892499999995,
+        "y": 65.30007,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ti_NbTiTa091719_162_074.001"
+    },
+    "37054cb8-9c4f-42c0-86d0-f7f089fb237a": {
+        "x": -43.34014,
+        "y": 65.30007,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ti_NbTiTa091719_161_073.001"
+    },
+    "81a9447f-3409-4048-8519-76b0e2e2bfec": {
+        "x": -56.89993,
+        "y": 65.30007,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ti_NbTiTa091719_158_072.001"
+    },
+    "773caa69-5b21-4ff3-8d6a-d48a9c755bcc": {
+        "x": -61.41986,
+        "y": 65.30007,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ti_NbTiTa091719_157_071.001"
+    },
+    "51e60af2-e818-4617-b6c5-2a480f977c59": {
+        "x": -74.9799675,
+        "y": 65.30007,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ti_NbTiTa091719_154_070.001"
+    },
+    "750dceea-fb70-43d8-9d71-9965f0c4ed36": {
+        "x": -79.4998975,
+        "y": 65.30007,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ti_NbTiTa091719_153_069.001"
+    },
+    "a2054d00-942e-42fb-baa1-f4088906a0c5": {
+        "x": -38.819892499999995,
+        "y": 69.82,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ti_NbTiTa091719_150_068.001"
+    },
+    "a24dcc15-9a3e-4031-823c-d350eee273df": {
+        "x": -43.34014,
+        "y": 69.82,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ti_NbTiTa091719_149_067.001"
+    },
+    "65faeb6c-f32b-40bd-9941-c2765c359d28": {
+        "x": -56.89993,
+        "y": 69.82,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ti_NbTiTa091719_146_066.001"
+    },
+    "191bb665-b864-4592-b872-556767c4e202": {
+        "x": -61.41986,
+        "y": 69.82,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ti_NbTiTa091719_145_065.001"
+    },
+    "0a75c8b3-28e0-4df7-835f-24fb7b619ab4": {
+        "x": -74.9799675,
+        "y": 69.82,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ti_NbTiTa091719_142_064.001"
+    },
+    "591ace89-b9a0-4641-b1b6-21f6cd03863c": {
+        "x": -79.4998975,
+        "y": 69.82,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ti_NbTiTa091719_141_063.001"
+    },
+    "bca9e2b4-e0f0-41c3-9385-9642dc5fde01": {
+        "x": -34.2999625,
+        "y": 74.33993,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ti_NbTiTa091719_138_062.001"
+    },
+    "924fabf8-ca16-43a4-b43e-b0f94b9f2411": {
+        "x": -38.819892499999995,
+        "y": 74.33993,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ti_NbTiTa091719_137_061.001"
+    },
+    "bd92c87d-eccf-437c-9cf5-d0c34382928f": {
+        "x": -52.38,
+        "y": 74.33993,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ti_NbTiTa091719_134_060.001"
+    },
+    "41a8e746-6369-46af-9136-664e92af949c": {
+        "x": -56.89993,
+        "y": 74.33993,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ti_NbTiTa091719_133_059.001"
+    },
+    "63e23acb-1dae-4207-8169-ccc82964d7b5": {
+        "x": -70.4600375,
+        "y": 74.33993,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ti_NbTiTa091719_130_058.001"
+    },
+    "a016878f-b7eb-46e5-898f-fe1f41aa84e4": {
+        "x": -74.9799675,
+        "y": 74.33993,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ti_NbTiTa091719_129_057.001"
+    },
+    "7a799fac-3e91-4861-8c53-00e4c0d0f785": {
+        "x": -25.260102499999995,
+        "y": 78.85986,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ti_NbTiTa091719_126_056.001"
+    },
+    "2ee5467f-9c8f-40dd-8c51-840e4fe6ffec": {
+        "x": -29.780032499999997,
+        "y": 78.85986,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ti_NbTiTa091719_125_055.001"
+    },
+    "e06c72d2-4537-481b-9470-d06e08ecbec4": {
+        "x": -43.34014,
+        "y": 78.85986,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ti_NbTiTa091719_122_054.001"
+    },
+    "f7c3c95f-0c62-4541-a689-392851bf69f2": {
+        "x": -47.86007,
+        "y": 78.85986,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ti_NbTiTa091719_121_053.001"
+    },
+    "b707b5c3-b1cd-4477-9f96-001f9ab2d500": {
+        "x": -61.41986,
+        "y": 78.85986,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ti_NbTiTa091719_118_052.001"
+    },
+    "b7849e01-9318-4255-9a39-df796faac174": {
+        "x": -65.9401075,
+        "y": 78.85986,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ti_NbTiTa091719_117_051.001"
+    },
+    "3de90c68-4290-4d84-9105-ca5eb6674bea": {
+        "x": -79.4998975,
+        "y": 78.85986,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ti_NbTiTa091719_114_050.001"
+    },
+    "307f5699-9e33-49cd-a6d9-ccf381c431a7": {
+        "x": -84.020145,
+        "y": 78.85986,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ti_NbTiTa091719_113_049.001"
+    },
+    "3697267c-d152-432b-a966-8ad8879bf759": {
+        "x": -25.260102499999995,
+        "y": 83.3801075,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ti_NbTiTa091719_111_048.001"
+    },
+    "ade00bce-af17-4d13-a5da-ca3c0caa4a11": {
+        "x": -29.780032499999997,
+        "y": 83.3801075,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ti_NbTiTa091719_110_047.001"
+    },
+    "91e8b19e-ab2d-4fb5-9553-2b65f1e90743": {
+        "x": -34.2999625,
+        "y": 83.3801075,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ti_NbTiTa091719_109_046.001"
+    },
+    "77010ffc-5346-435f-8bbc-60dacc32729c": {
+        "x": -47.86007,
+        "y": 83.3801075,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ti_NbTiTa091719_106_045.001"
+    },
+    "8fc59ac5-d35a-40f7-a661-9a9408112f31": {
+        "x": -52.38,
+        "y": 83.3801075,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ti_NbTiTa091719_105_044.001"
+    },
+    "b9a5e57e-b599-4528-b106-63f29bf5debe": {
+        "x": -65.9401075,
+        "y": 83.3801075,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ti_NbTiTa091719_102_043.001"
+    },
+    "f37625cc-6e79-4ae7-94ac-a8ded7f9967a": {
+        "x": -70.4600375,
+        "y": 83.3801075,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ti_NbTiTa091719_101_042.001"
+    },
+    "889258a1-6b6a-4ea2-94c9-b0ccc610fe5d": {
+        "x": -84.020145,
+        "y": 83.3801075,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ti_NbTiTa091719_098_041.001"
+    },
+    "9838b13d-bb0e-4300-bfe5-194c32c90c2f": {
+        "x": -88.540075,
+        "y": 83.3801075,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ti_NbTiTa091719_097_040.001"
+    },
+    "c8911391-c452-4cea-949c-7837f360b64a": {
+        "x": -34.2999625,
+        "y": 87.9000375,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ti_NbTiTa091719_094_039.001"
+    },
+    "7e6108de-5e22-4e0f-8ec6-3c4b61a207e6": {
+        "x": -38.819892499999995,
+        "y": 87.9000375,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ti_NbTiTa091719_093_038.001"
+    },
+    "684e5c4e-f4ca-4996-a746-cf964d0ab66c": {
+        "x": -52.38,
+        "y": 87.9000375,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ti_NbTiTa091719_090_037.001"
+    },
+    "5aeb1595-a2b9-43eb-a2ae-c1ca57f18bfc": {
+        "x": -56.89993,
+        "y": 87.9000375,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ti_NbTiTa091719_089_036.001"
+    },
+    "08b19d3a-f541-4ea8-83af-00a09b2f6037": {
+        "x": -65.9401075,
+        "y": 87.9000375,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ti_NbTiTa091719_087_035.001"
+    },
+    "1d3476fd-7960-4fd9-b78f-5ab936ec3607": {
+        "x": -70.4600375,
+        "y": 87.9000375,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ti_NbTiTa091719_086_034.001"
+    },
+    "d516344c-075f-4b7f-b7e8-9fb9b4fcba54": {
+        "x": -84.020145,
+        "y": 87.9000375,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ti_NbTiTa091719_083_033.001"
+    },
+    "76ce2647-b224-46a5-8b39-17d3e3d1ca5d": {
+        "x": -88.540075,
+        "y": 87.9000375,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ti_NbTiTa091719_082_032.001"
+    },
+    "8988dc82-cf37-4feb-bd88-8cae8d196383": {
+        "x": -25.260102499999995,
+        "y": 92.4199675,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ti_NbTiTa091719_081_031.001"
+    },
+    "d47c5cd1-09ff-4ec5-9c31-28539e2a121f": {
+        "x": -29.780032499999997,
+        "y": 92.4199675,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ti_NbTiTa091719_080_030.001"
+    },
+    "d4196a81-8318-489e-a691-e9bbbb1fae5e": {
+        "x": -38.819892499999995,
+        "y": 92.4199675,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ti_NbTiTa091719_078_029.001"
+    },
+    "7f731cc2-f401-4cd6-b10c-b250c9fedd56": {
+        "x": -43.34014,
+        "y": 92.4199675,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ti_NbTiTa091719_077_028.001"
+    },
+    "31505b43-43fe-4a0b-a32f-6cbdd07c7f94": {
+        "x": -56.89993,
+        "y": 92.4199675,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ti_NbTiTa091719_074_027.001"
+    },
+    "3542d242-58b1-4624-8a9e-6a656708de8f": {
+        "x": -61.41986,
+        "y": 92.4199675,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ti_NbTiTa091719_073_026.001"
+    },
+    "7a72a785-749e-43dc-b10e-81ce4d5d20dc": {
+        "x": -74.9799675,
+        "y": 92.4199675,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ti_NbTiTa091719_070_025.001"
+    },
+    "873e1669-badf-4678-8a4c-3821769e58ce": {
+        "x": -79.4998975,
+        "y": 92.4199675,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ti_NbTiTa091719_069_024.001"
+    },
+    "f24e17ad-39c3-440c-a5e5-2a58455c3970": {
+        "x": -25.260102499999995,
+        "y": 96.9398975,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ti_NbTiTa091719_066_023.001"
+    },
+    "0dcffbbb-b919-4379-a597-4ca1cf247e10": {
+        "x": -29.780032499999997,
+        "y": 96.9398975,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ti_NbTiTa091719_065_022.001"
+    },
+    "96109229-6f87-4a95-96f5-9b2ea933f3e0": {
+        "x": -34.2999625,
+        "y": 96.9398975,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ti_NbTiTa091719_064_021.001"
+    },
+    "85c59947-43ef-42e2-93fd-e86577772050": {
+        "x": -47.86007,
+        "y": 96.9398975,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ti_NbTiTa091719_061_020.001"
+    },
+    "922cb55d-2c37-4be0-ae30-4ab2870721a1": {
+        "x": -52.38,
+        "y": 96.9398975,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ti_NbTiTa091719_060_019.001"
+    },
+    "b446a3c7-862f-4f50-8f14-2e96b81ca0c0": {
+        "x": -56.89993,
+        "y": 96.9398975,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ti_NbTiTa091719_059_018.001"
+    },
+    "a4bcdc75-0d07-4c9c-848b-c66621def24b": {
+        "x": -61.41986,
+        "y": 96.9398975,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ti_NbTiTa091719_058_017.001"
+    },
+    "605fb537-8363-425e-b36f-78c9e06132c4": {
+        "x": -65.9401075,
+        "y": 96.9398975,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ti_NbTiTa091719_057_016.001"
+    },
+    "e879b777-0dfa-4c24-8849-1b7e25dde2e0": {
+        "x": -70.4600375,
+        "y": 96.9398975,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ti_NbTiTa091719_056_015.001"
+    },
+    "758305dd-b100-4652-b021-e2cee4d983b6": {
+        "x": -84.020145,
+        "y": 96.9398975,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ti_NbTiTa091719_053_014.001"
+    },
+    "3a87412e-7cff-4931-b3a5-12e8d73dc42d": {
+        "x": -88.540075,
+        "y": 96.9398975,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ti_NbTiTa091719_052_013.001"
+    },
+    "69004616-dd44-41ab-824a-99acb5bbf753": {
+        "x": -29.780032499999997,
+        "y": 101.460145,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ti_NbTiTa091719_051_012.001"
+    },
+    "b7d37f6b-f313-4cad-b0c9-c6b0272a5d7d": {
+        "x": -47.86007,
+        "y": 101.460145,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ti_NbTiTa091719_047_011.001"
+    },
+    "ce6cfe5d-a330-442f-982b-ec0588e92f96": {
+        "x": -65.9401075,
+        "y": 101.460145,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ti_NbTiTa091719_043_010.001"
+    },
+    "e83d6897-ff26-4dd5-85dd-d2c242cf6ac6": {
+        "x": -84.020145,
+        "y": 101.460145,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ti_NbTiTa091719_039_009.001"
+    },
+    "3cbce95e-3f0a-46ae-805a-f2d5e5d8934c": {
+        "x": -29.780032499999997,
+        "y": 105.980075,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ti_NbTiTa091719_038_008.001"
+    },
+    "fb222616-0cb5-413d-9eff-5848c30f3f0f": {
+        "x": -56.89993,
+        "y": 105.980075,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ti_NbTiTa091719_032_007.001"
+    },
+    "d46aa725-3df8-4bdc-b34a-7a2545ce1ace": {
+        "x": -84.020145,
+        "y": 105.980075,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ti_NbTiTa091719_026_006.001"
+    },
+    "070d8caf-e47e-4490-91be-f61d8763c739": {
+        "x": -47.86007,
+        "y": 110.500005,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ti_NbTiTa091719_022_005.001"
+    },
+    "c5274c39-66a6-434d-90ab-16d97f0f1f76": {
+        "x": -65.9401075,
+        "y": 110.500005,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ti_NbTiTa091719_018_004.001"
+    },
+    "8e37cbb4-089d-453e-82e7-09d2283e4e7d": {
+        "x": -38.819892499999995,
+        "y": 115.019935,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ti_NbTiTa091719_014_003.001"
+    },
+    "8b044519-dc68-4bc4-9859-b405bdfc8f28": {
+        "x": -74.9799675,
+        "y": 115.019935,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ti_NbTiTa091719_006_002.001"
+    },
+    "c896c62e-12bc-4e61-98aa-cbc444b09471": {
+        "x": -56.89993,
+        "y": 119.539865,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ti_NbTiTa091719_003_001.001"
+    },
+    "67a2daf4-5fc4-4c26-a263-8421526614ef": {
+        "x": -56.89993,
+        "y": 119.539865,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ti_NbTiTa091719_003_003.001"
+    },
+    "30f5adce-b56d-47a2-a4d0-9ad641cd7cb6": {
+        "x": -56.89993,
+        "y": 119.539865,
+        "element": "Ti",
+        "edge": "K",
+        "sample": "NbTiTa091719",
+        "filename": "Ti_NbTiTa091719_003_003.001"
+    }
+}
