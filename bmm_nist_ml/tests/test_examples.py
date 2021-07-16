@@ -1,5 +1,7 @@
 import numpy as np
 
+from bluesky import RunEngine
+from databroker import Broker
 from ophyd.sim import SynAxis
 
 import bmm_nist_ml
@@ -30,12 +32,62 @@ def test_get_nearest_distance_and_index():
 
     det = bmm_nist_ml.BmmNistMlDetector("det", motor1, "motor1", motor2, "motor2")
 
+    # should take these directly from the data
     motor1_position = -69.2998925
     motor2_position = 92.0999275
 
     motor1.set(motor1_position)
     motor2.set(motor2_position)
 
-    nearest_distance, nearest_index = det.get_neaest_distance_and_index(motor1_position, motor2_position)
+    nearest_distance, nearest_index = det.get_nearest_distance_and_index(motor1_position, motor2_position)
     assert nearest_distance == 0.0
     assert nearest_index == 1
+
+
+def test_detector__compute():
+    motor1 = SynAxis(name="motor1", labels={"motors"})
+    motor2 = SynAxis(name="motor2", labels={"motors"})
+
+    det = bmm_nist_ml.BmmNistMlDetector("det", motor1, "motor1", motor2, "motor2")
+
+    motor1_position = 3
+    motor2_position = 5
+
+    motor1.set(motor1_position)
+    motor2.set(motor2_position)
+
+    assert det._compute() == 3*5
+
+
+def test_the_whole_enchilada():
+    RE = RunEngine()
+
+    documents = []
+
+    def accumulate_documents(name, doc):
+        documents.append((name, doc))
+
+    RE.subscribe(accumulate_documents)
+
+    run_id = RE(bmm_nist_ml.the_plan(x1=-70.0, x2=92.0))
+    assert run_id is not None
+    assert len(documents) > 0
+
+
+def test_the_whole_enchilada_with_db():
+    RE = RunEngine()
+    db = Broker.named("bmm-nist-ml")
+    RE.subscribe(db.insert)
+
+    documents = []
+
+    def accumulate_documents(name, doc):
+        documents.append((name, doc))
+
+    RE.subscribe(accumulate_documents)
+
+    run_id = RE(bmm_nist_ml.the_plan(x1=-70.0, x2=92.0))
+    assert run_id is not None
+    assert len(documents) > 0
+
+    assert db[-1] is not None
