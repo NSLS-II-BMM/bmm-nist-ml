@@ -1,4 +1,6 @@
 bluesky
+databroker
 ophyd
 numpy
 scipy
+intake
