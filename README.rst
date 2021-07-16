@@ -57,6 +57,8 @@ Open a new terminal (or the equivalent) and SSH into the VM. Start uvicorn::
   INFO:     Uvicorn running on http://localhost:60610 (Press CTRL+C to quit)
   INFO:uvicorn.error:Uvicorn running on http://localhost:60610 (Press CTRL+C to quit)
 
+Specify ``--host 0.0.0.0`` instead of ``--host localhost`` to allow the host OS to access the FastAPI docs at ``http:/localhost:60610/docs``.
+
 Open a third terminal and SSH into the VM. Check the status of the queueserver::
 
   $ vagrant ssh
