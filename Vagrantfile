@@ -43,19 +43,37 @@ Vagrant.configure("2") do |config|
     /home/vagrant/miniconda3/bin/conda init --system
     /home/vagrant/miniconda3/bin/conda update conda -y
 
+    #
+    # bluesky_queueserver installation begins here
+    #
     /home/vagrant/miniconda3/bin/conda create -y -n bluesky_queueserver python=3.8
     /home/vagrant/miniconda3/envs/bluesky_queueserver/bin/pip install uvicorn
     /home/vagrant/miniconda3/bin/conda install zeromq -n bluesky_queueserver
-    # use tiled as well
     /home/vagrant/miniconda3/envs/bluesky_queueserver/bin/pip install tiled[complete]
+    /home/vagrant/miniconda3/envs/bluesky_queueserver/bin/pip install -pre databroker[complete]
 
     git clone https://github.com/bluesky/bluesky-queueserver.git /home/vagrant/bluesky-queueserver
     cd /home/vagrant/bluesky-queueserver
     /home/vagrant/miniconda3/envs/bluesky_queueserver/bin/pip install .
+    #
+    # bluesky_queueserver installation ends here
+    #
+
+    # make the vagrant account owner of the bluesky_queueserver repository
     chown -R vagrant:vagrant /home/vagrant/bluesky-queueserver
 
     # must change ownership for /home/vagrant/miniconda3 after creating virtual environments and installing packages
     chown -R vagrant:vagrant /home/vagrant/miniconda3
+
+    # copy systemd service files to /etc/systemd/system
+    # start the runengine manager:
+    cp /vagrant/files/start_re_manager.service /etc/systemd/system/
+
+    # start uvicorn
+    cp /vagrant/files/bluesky_qserver_uvicorn.service /etc/systemd/system/
+
+    systemctl start start_re_manager
+    systemctl start bluesky_qserver_uvicorn
 
   SHELL
 end
