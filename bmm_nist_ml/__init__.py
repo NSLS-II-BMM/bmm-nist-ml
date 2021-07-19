@@ -7,7 +7,6 @@ from scipy import spatial
 
 import bluesky.plans as bp
 import bluesky.plan_stubs as bps
-import bluesky.preprocessors as bpp
 
 from ophyd import Component as Cpt, Device, Signal
 from ophyd.sim import SynAxis, SynSignal
