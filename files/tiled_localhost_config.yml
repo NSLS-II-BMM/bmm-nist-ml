@@ -1,8 +1,16 @@
+#authentication:
+#  allow_anonymous_access: true
+#catalogs:
+#  - path: /
+#    catalog: databroker.mongo_normalized:Tree.from_uri
+#    args:
+#      uri: mongodb://localhost:27017/metadatastore-production-v1
+#      asset_registry_uri: mongodb://localhost:27017/filestore-production-v1
+
 authentication:
   allow_anonymous_access: true
-catalogs:
-  - path: /
-    catalog: databroker.mongo_normalized:Catalog.from_uri
+trees:
+  - tree: databroker.mongo_normalized:Tree.from_uri
+    path: /bmm
     args:
-      uri: mongodb://localhost:27017/metadatastore-production-v1
-      asset_registry_uri: mongodb://localhost:27017/filestore-production-v1
+      uri: mongodb://localhost:27017/bmm
