@@ -65,15 +65,18 @@ Vagrant.configure("2") do |config|
     # must change ownership for /home/vagrant/miniconda3 after creating virtual environments and installing packages
     chown -R vagrant:vagrant /home/vagrant/miniconda3
 
-    # copy systemd service files to /etc/systemd/system
-    # start the runengine manager:
-    cp /vagrant/files/start_re_manager.service /etc/systemd/system/
+    mkdir /home/vagrant/tiled
+    cp /vagrant/files/tiled_localhost_config.yml /home/vagrant/tiled/
+    chown -R vagrant:vagrant /home/vagrant/tiled
 
-    # start uvicorn
+    # copy systemd service files to /etc/systemd/system
+    cp /vagrant/files/start_re_manager.service /etc/systemd/system/
     cp /vagrant/files/bluesky_qserver_uvicorn.service /etc/systemd/system/
+    cp /vagrant/files/tiled.service /etc/systemd/system/
 
     systemctl start start_re_manager
     systemctl start bluesky_qserver_uvicorn
+    systemctl start tiled
 
   SHELL
 end
