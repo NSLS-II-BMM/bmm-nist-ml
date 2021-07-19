@@ -1,0 +1,15 @@
+[Unit]
+Description=Tiled
+After=network.target
+
+[Service]
+User=vagrant
+WorkingDirectory=/home/vagrant/tiled
+LimitNOFILE=4096
+ExecStart=/home/vagrant/miniconda3/envs/bluesky_queueserver/bin/tiled serve config /home/vagrant/tiled/config.yml
+EnvironmentFile=/etc/tiled/env.secret
+Restart=on-failure
+RestartSec=5s
+
+[Install]
+WantedBy=multi-user.target
