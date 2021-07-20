@@ -1,8 +1,8 @@
 import numpy as np
 
 from bluesky import RunEngine
-from databroker import Broker
 from ophyd.sim import SynAxis
+from tiled.client import from_uri
 
 import bmm_nist_ml
 
@@ -76,8 +76,8 @@ def test_the_whole_enchilada():
 
 def test_the_whole_enchilada_with_db():
     RE = RunEngine()
-    db = Broker.named("bmm-nist-ml")
-    RE.subscribe(db.insert)
+    RE.subscribe(bmm_nist_ml.serializer)
+    catalog = from_uri("http://localhost:8000/bmm")
 
     documents = []
 
@@ -90,4 +90,4 @@ def test_the_whole_enchilada_with_db():
     assert run_id is not None
     assert len(documents) > 0
 
-    assert db[-1] is not None
+    assert catalog[-1] is not None
