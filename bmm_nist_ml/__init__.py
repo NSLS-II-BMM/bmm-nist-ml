@@ -11,19 +11,19 @@ import bluesky.plan_stubs as bps
 from ophyd import Component as Cpt, Device, Signal
 from ophyd.sim import SynAxis, SynSignal
 
-import intake
+import suitcase.mongo_normalized
 
 from ._version import get_versions
 
 __version__ = get_versions()["version"]
 del get_versions
 
-# Look up a driver class by its name in registry.
-catalog_class = intake.registry["bluesky-mongo-normalized-catalog"]
-
-bmm_nist_ml_catalog_instance = catalog_class(
-    metadatastore_db="mongodb://localhost:27017/md",
-    asset_registry_db="mongodb://localhost:27017/ar",
+serializer = suitcase.mongo_normalized.Serializer(
+    "mongodb://localhost:27017/bmm",
+    # Why twice? Because Serializer requires you to specify metadatastore and
+    # asset registry separately, even though in modern deployments they are
+    # typically the same database, only ever separated for historical reasons.
+    "mongodb://localhost:27017/bmm",
 )
 
 
