@@ -5,7 +5,7 @@ Requires=network.target
 [Service]
 User=vagrant
 Type=simple
-ExecStart=/home/vagrant/miniconda3/envs/bluesky_queueserver/bin/start-re-manager --startup-dir /vagrant/bmm_nist_ml_startup
+ExecStart=/home/vagrant/miniconda3/envs/bluesky_queueserver/bin/start-re-manager --startup-dir /vagrant/bmm_nist_ml_startup --keep-re
 
 [Install]
 WantedBy=multi-user.target
