@@ -50,7 +50,7 @@ Vagrant.configure("2") do |config|
     /home/vagrant/miniconda3/envs/bluesky_queueserver/bin/pip install uvicorn
     /home/vagrant/miniconda3/bin/conda install zeromq -n bluesky_queueserver
     /home/vagrant/miniconda3/envs/bluesky_queueserver/bin/pip install tiled[complete]
-    /home/vagrant/miniconda3/envs/bluesky_queueserver/bin/pip install --pre databroker[complete]
+    /home/vagrant/miniconda3/envs/bluesky_queueserver/bin/pip install "databroker[complete] >=2.0.0a6"
 
     git clone https://github.com/bluesky/bluesky-queueserver.git /home/vagrant/bluesky-queueserver
     cd /home/vagrant/bluesky-queueserver
