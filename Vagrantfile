@@ -61,6 +61,7 @@ Vagrant.configure("2") do |config|
 
     # install bmm-nist-ml
     /home/vagrant/miniconda3/envs/bluesky_queueserver/bin/pip install -e /vagrant
+    /home/vagrant/miniconda3/envs/bluesky_queueserver/bin/pip install -r /vagrant/requirements-dev.txt
 
     # make the vagrant account owner of the bluesky_queueserver repository
     chown -R vagrant:vagrant /home/vagrant/bluesky-queueserver
