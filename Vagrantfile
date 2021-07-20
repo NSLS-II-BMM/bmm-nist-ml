@@ -82,9 +82,9 @@ Vagrant.configure("2") do |config|
     systemctl start bluesky_qserver_uvicorn
     systemctl start tiled
 
-    # read logs:
-    #   journalctl -u start_re_manager
-    #   journalctl -u bluesky_qserver_uvicorn
-    #   journalctl -u tiled
+    # follow the logs:
+    #   journalctl -af -u start_re_manager
+    #   journalctl -af -u bluesky_qserver_uvicorn
+    #   journalctl -af -u tiled
   SHELL
 end
