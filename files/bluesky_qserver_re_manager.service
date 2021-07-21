@@ -1,5 +1,5 @@
 [Unit]
-Description=Starts the RunEngine Manager
+Description=Bluesky Queueserver RunEngine Manager
 Requires=network.target
 
 [Service]
