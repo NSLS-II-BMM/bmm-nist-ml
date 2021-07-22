@@ -35,6 +35,10 @@ Vagrant.configure("2") do |config|
     echo "deb [ arch=amd64,arm64 ] https://repo.mongodb.org/apt/ubuntu focal/mongodb-org/4.4 multiverse" | sudo tee /etc/apt/sources.list.d/mongodb-org-4.4.list
     apt update
     apt install -y mongodb-org
+
+    # note: change the mongodb bindIP in /etc/mongod.conf to 0.0.0.0 to allow connections from the host
+    cp /vagrant/files/mongod.conf /etc/
+
     systemctl start mongod
     systemctl enable mongod
 
