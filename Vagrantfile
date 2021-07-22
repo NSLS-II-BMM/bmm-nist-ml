@@ -15,8 +15,11 @@ Vagrant.configure("2") do |config|
   # forward the mongodb port to the host
   config.vm.network "forwarded_port", guest: 27017, host: 27017, host_ip: "localhost"
 
-  # forward the port for interactive API documentation
+  # forward a port for interactive API documentation
   config.vm.network "forwarded_port", guest: 60610, host: 60610, host_ip: "localhost"
+
+  # forward a port for tiled
+  config.vm.network "forwarded_port", guest: 8000, host: 8000, host_ip: "localhost"
 
   config.vm.provision "shell", inline: <<-SHELL
     apt update
