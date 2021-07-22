@@ -125,3 +125,4 @@ def the_plan(x1, x2):
     yield from bps.mv(motor1, x1)
     yield from bps.mv(motor2, x2)
     yield from bp.count([detector])
+    yield from bps.sleep(10)
