@@ -77,7 +77,6 @@ def test_the_whole_enchilada():
 def test_the_whole_enchilada_with_db():
     RE = RunEngine()
     RE.subscribe(bmm_nist_ml.serializer)
-    catalog = from_uri("http://localhost:8000/bmm")
 
     documents = []
 
@@ -90,4 +89,5 @@ def test_the_whole_enchilada_with_db():
     assert run_id is not None
     assert len(documents) > 0
 
-    assert catalog[-1] is not None
+    catalog = from_uri("http://localhost:8000")
+    print(catalog["bmm"])
