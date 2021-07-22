@@ -1,0 +1,9 @@
+[Unit]
+Description=Bluesky Queueserver Uvicorn
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/bash /home/vagrant/bluesky_qserver_uvicorn.sh
+
+[Install]
+WantedBy=default.target

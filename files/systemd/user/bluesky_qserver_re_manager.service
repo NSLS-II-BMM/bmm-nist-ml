@@ -1,0 +1,9 @@
+[Unit]
+Description=Bluesky Queueserver RunEngine Manager
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/bash /home/vagrant/bluesky_qserver_re_manager.sh
+
+[Install]
+WantedBy=default.target

@@ -1,0 +1,13 @@
+[Unit]
+Description=Tiled
+
+[Service]
+WorkingDirectory=/home/vagrant/tiled
+LimitNOFILE=4096
+ExecStart=/usr/bin/bash /home/vagrant/tiled.sh
+#EnvironmentFile=/etc/tiled/env.secret
+Restart=on-failure
+RestartSec=5s
+
+[Install]
+WantedBy=default.target
