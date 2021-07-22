@@ -81,16 +81,44 @@ Vagrant.configure("2") do |config|
     chown -R vagrant:vagrant /home/vagrant/tiled
 
     # copy systemd service files to /etc/systemd/system
-    cp /vagrant/files/start_re_manager.service /etc/systemd/system/
-    cp /vagrant/files/bluesky_qserver_uvicorn.service /etc/systemd/system/
-    cp /vagrant/files/tiled.service /etc/systemd/system/
+    cp /vagrant/files/systemd/system/bluesky_qserver_re_manager.service /etc/systemd/system/
+    cp /vagrant/files/systemd/system/bluesky_qserver_uvicorn.service /etc/systemd/system/
+    cp /vagrant/files/systemd/system/tiled.service /etc/systemd/system/
 
-    systemctl start start_re_manager
-    systemctl start bluesky_qserver_uvicorn
-    systemctl start tiled
+    # copy user-land service units and related scripts to /home/vagrant
+    mkdir -p /home/vagrant/.config/systemd/user
+    cp /vagrant/files/systemd/user/bluesky_qserver_re_manager.service /home/vagrant/.config/systemd/user/
+    cp /vagrant/files/systemd/user/bluesky_qserver_re_manager.sh      /home/vagrant/
+    cp /vagrant/files/systemd/user/bluesky_qserver_uvicorn.service    /home/vagrant/.config/systemd/user/
+    cp /vagrant/files/systemd/user/bluesky_qserver_uvicorn.sh         /home/vagrant/
+    cp /vagrant/files/systemd/user/tiled.service                      /home/vagrant/.config/systemd/user/
+    cp /vagrant/files/systemd/user/tiled.sh                           /home/vagrant
+    chown -R vagrant:vagrant /home/vagrant/.config
+    chown -R vagrant:vagrant /home/vagrant
 
-    # follow the logs:
-    #   journalctl -af -u start_re_manager
+    # follow the logs like this for user services:
+    #   journalctl --user -af -u bluesky_qserver_re_manager
+    #   journalctl --user -af -u bluesky_qserver_uvicorn
+    #   journalctl --user -af -u tiled
+
+    # start services from user directory manually like this
+    #   systemctl --user enable bluesky_qserver_re_manager.service
+    #   systemctl --user start bluesky_qserver_re_manager.service
+    #   systemctl --user enable bluesky_qserver_uvicorn.service
+    #   systemctl --user start bluesky_qserver_uvicorn.service
+    #   systemctl --user enable tiled.service
+    #   systemctl --user start tiled.service
+
+    # system-level services can be started here
+    # systemctl start bluesky_qserver_re_manager
+    # systemctl enable bluesky_qserver_re_manager
+    # systemctl start bluesky_qserver_uvicorn
+    # systemctl enable bluesky_qserver_uvicorn
+    # systemctl start tiled
+    # systemctl enable tiled
+
+    # follow the logs like this for system-level services:
+    #   journalctl -af -u bluesky_qserver_re_manager
     #   journalctl -af -u bluesky_qserver_uvicorn
     #   journalctl -af -u tiled
   SHELL
