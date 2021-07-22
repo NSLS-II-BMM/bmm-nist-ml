@@ -1,7 +1,7 @@
 bluesky
-databroker
+databroker[complete] >= 2.0.0a6
 ophyd
-tiled
+tiled[complete]
 numpy
 scipy
 intake
